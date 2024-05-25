@@ -4,7 +4,7 @@ const app = express();
 
 app.use(expressLayouts);
 app.set("view engine", "ejs");
-
+app.set("layout", "./layouts/layout");
 app.listen(8082, () => {
   console.log("http://localhost:8082");
   console.log("http://localhost:8082/testjs");
@@ -18,5 +18,5 @@ app.get("/", function (req, res) {
 
 /* 에러 핸들링 */
 app.use(function (req, res, next) {
-  return res.status(404).send("404에러남");
+  return res.status(404).render("./errors/404.ejs");
 });
