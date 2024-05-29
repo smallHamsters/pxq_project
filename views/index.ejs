@@ -1,8 +1,8 @@
-<div class="text-center">
+<div>
   <h2>마케터, 크리에이터를 위한 전문 도구</h2>
 </div>
-<div class="row mx-3">
-  <div class="col-sm-6 mb-3 mb-sm-0">
+<div class="row mx-3 row justify-content-center">
+  <div class="col-sm-6 mb-3 mb-sm-0" style="max-width: 720px">
     <div class="card">
       <div class="card-body">
         <h5 class="card-title">공정위문구</h5>
@@ -22,13 +22,37 @@
       </div>
     </div>
   </div>
-  <div class="col-sm-6">
+  <div class="col-sm-6 mb-3 mb-sm-0" style="max-width: 720px">
     <div class="card">
       <div class="card-body">
         <h5 class="card-title">위험키워드</h5>
         <p class="card-text">안전하고 올바른 광고문구 작성하기</p>
-        <a href="#" class="btn btn-outline-primary">자세히 보기</a>
+        <form class="d-flex" role="search">
+          <input
+            class="form-control me-2"
+            type="search"
+            placeholder="키워드 검색"
+            aria-label="Search"
+            pattern="^[a-zA-Z0-9가-힣]{1,20}$"
+          />
+          <button class="btn btn-outline-primary" type="submit">Search</button>
+        </form>
+        <div class="form-text">&#8251; 20자 이내, 특수문자 입력불가</div>
+        <div class="form-text">e.g. '알약', '여름철', '감기'</div>
       </div>
     </div>
   </div>
+</div>
+
+<div class="mt-3">
+  <h2>공지사항</h2>
+</div>
+<div>
+  <ul class="list-group list-group-flush">
+    <li class="list-group-item">An item</li>
+    <li class="list-group-item">A second item</li>
+    <li class="list-group-item">A third item</li>
+    <li class="list-group-item">A fourth item</li>
+    <li class="list-group-item">And a fifth one</li>
+  </ul>
 </div>

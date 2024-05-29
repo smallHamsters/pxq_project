@@ -1,67 +1,88 @@
-<div class="container-fluid">
-  <a class="navbar-brand" href="/">PrismXQ</a>
-  <button
-    class="navbar-toggler"
-    type="button"
-    data-bs-toggle="collapse"
-    data-bs-target="#navbarSupportedContent"
-    aria-controls="navbarSupportedContent"
-    aria-expanded="false"
-    aria-label="Toggle navigation"
-  >
-    <span class="navbar-toggler-icon"></span>
-  </button>
-  <div class="collapse navbar-collapse" id="navbarSupportedContent">
-    <ul class="navbar-nav me-auto mb-2 mb-lg-0">
-      <li class="nav-item dropdown">
-        <a
-          class="nav-link dropdown-toggle"
-          href="#"
-          role="button"
-          data-bs-toggle="dropdown"
-          aria-expanded="false"
-        >
-          공정위문구
-        </a>
-        <ul class="dropdown-menu">
-          <li><a class="dropdown-item" href="#">검사기</a></li>
-          <li>
-            <a class="dropdown-item" href="#">단어검색</a>
-          </li>
-          <li><hr class="dropdown-divider" /></li>
-          <li>
-            <a class="dropdown-item" href="#">가이드라인</a>
-          </li>
-        </ul>
-      </li>
-      <li class="nav-item dropdown">
-        <a
-          class="nav-link dropdown-toggle"
-          href="#"
-          role="button"
-          data-bs-toggle="dropdown"
-          aria-expanded="false"
-        >
-          위험키워드
-        </a>
-        <ul class="dropdown-menu">
-          <li><a class="dropdown-item" href="#">검사기</a></li>
-          <li>
-            <a class="dropdown-item" href="#">단어검색</a>
-          </li>
-          <li><hr class="dropdown-divider" /></li>
-          <li>
-            <a class="dropdown-item" href="#">가이드라인</a>
-          </li>
-        </ul>
-      </li>
-      <li class="nav-item">
-        <a class="nav-link" href="#">사건사고</a>
-      </li>
-    </ul>
-    <form class="d-flex" role="search">
-      <input class="form-control me-2" type="search" aria-label="Search" />
-      <button class="btn btn-outline-success" type="submit">Search</button>
-    </form>
+<nav class="navbar navbar-expand-sm px-2" style="background-color: #e3f2fd">
+  <div class="container-fluid">
+    <a class="navbar-brand" href="/">PrismXQ</a>
+    <!-- navbar-toggler -->
+    <button
+      class="navbar-toggler"
+      type="button"
+      data-bs-toggle="collapse"
+      data-bs-target="#navbarSupportedContent"
+      aria-controls="navbarSupportedContent"
+      aria-expanded="false"
+      aria-label="Toggle navigation"
+    >
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <!-- navbar-wide -->
+    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+      <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+        <li class="nav-item dropdown">
+          <a
+            class="nav-link dropdown-toggle"
+            href="/sponsoredtag"
+            role="button"
+            data-bs-toggle="dropdown"
+            aria-expanded="false"
+          >
+            공정위문구
+          </a>
+          <ul class="dropdown-menu">
+            <li><a class="dropdown-item" href="/sponsoredtag">메인화면</a></li>
+            <li><hr class="dropdown-divider" /></li>
+            <li>
+              <a class="dropdown-item" href="/sponsoredtag/checker">검사기</a>
+            </li>
+            <li>
+              <a class="dropdown-item" href="/sponsoredtag/keyword">단어검색</a>
+            </li>
+            <li>
+              <a class="dropdown-item" href="/sponsoredtag/sentence"
+                >문장완성</a
+              >
+            </li>
+            <li>
+              <a class="dropdown-item" href="/sponsoredtag/case"
+                >상황별 기재여부</a
+              >
+            </li>
+
+            <li><hr class="dropdown-divider" /></li>
+            <li>
+              <a class="dropdown-item" href="/sponsoredtag/guide">가이드라인</a>
+            </li>
+          </ul>
+        </li>
+        <li class="nav-item dropdown">
+          <a
+            class="nav-link dropdown-toggle"
+            href="#"
+            role="button"
+            data-bs-toggle="dropdown"
+            aria-expanded="false"
+          >
+            위험키워드
+          </a>
+          <ul class="dropdown-menu">
+            <li><a class="dropdown-item" href="#">메인화면</a></li>
+            <li><hr class="dropdown-divider" /></li>
+            <li><a class="dropdown-item" href="#">검사기</a></li>
+            <li>
+              <a class="dropdown-item" href="#">단어검색</a>
+            </li>
+            <li><hr class="dropdown-divider" /></li>
+            <li>
+              <a class="dropdown-item" href="#">가이드라인</a>
+            </li>
+          </ul>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="#">사건사고</a>
+        </li>
+      </ul>
+      <form id="navSearchInput" style="display: flex" role="search">
+        <input class="form-control me-2" type="search" aria-label="Search" />
+        <button class="btn btn-outline-success" type="submit">Search</button>
+      </form>
+    </div>
   </div>
-</div>
+</nav>

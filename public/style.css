@@ -1,12 +1,51 @@
-footer {
-  color: white;
+.row-flexible {
+  display: flex; !important
+  flex-flow: wrap;
+  width: 100%;
+  align-items: center;
 }
 
-li {
-  list-style: none;
-  padding-bottom: 0.2rem;
+.f-10 {
+  max-width: 10%;
+  flex: 1 1 10%;
 }
 
-a {
-  text-decoration-line: none;
+.f-30 {
+  max-width: 30%;
+  flex: 1 1 30%;
+}
+
+.f-70 {
+  max-width: 70%;
+  flex: 1 1 70%;
+}
+
+.hide {
+  display: none;
+}
+
+.show {
+  display: block;
+}
+
+.thick-underline {
+  border-bottom: solid 3px black;
+}
+
+.thin-underline {
+  border-bottom: solid 1px gray;
+}
+
+.list-d:hover {
+  background-color: #eeeeee;
+}
+
+.bg-green {
+  background-color: #f4ffe9;
+}
+
+@media screen and (max-width: 768px) {
+  #navSearchInput {
+    display: none !important;
+  }
 }
