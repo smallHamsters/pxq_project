@@ -1,6 +1,6 @@
 .row-flexible {
   display: flex; !important
-  flex-flow: wrap;
+  flex-flow: row wrap;
   width: 100%;
   align-items: center;
 }
@@ -42,6 +42,14 @@
 
 .bg-green {
   background-color: #f4ffe9;
+}
+
+.bg-yellowgreen {
+background-color: #f4ffe925;
+}
+
+.list-detail > div > div {
+  padding: 0.3rem 0;
 }
 
 @media screen and (max-width: 768px) {
