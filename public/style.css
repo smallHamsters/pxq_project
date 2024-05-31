@@ -48,9 +48,9 @@
 background-color: #f4ffe925;
 }
 
-.list-detail > div > div {
+/* .list-detail > div > div {
   padding: 0.3rem 0;
-}
+} */
 
 @media screen and (max-width: 768px) {
   #navSearchInput {

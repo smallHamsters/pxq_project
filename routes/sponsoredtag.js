@@ -23,14 +23,16 @@ for (let i = 1; i < rows.length; i++) {
 // console.log(result);
 
 let result_obj = result.map((subArray) => ({
-  숫자: subArray[0],
-  단어: subArray[1],
-  사용가부: subArray[2],
-  사용제한: subArray[3],
-  불가사유: subArray[4],
-  사용예시: subArray[5],
-  해결방법: subArray[6],
-  주의사항: subArray[7],
+  number: subArray[0],
+  keyword: subArray[1],
+  usageStatus: subArray[2],
+  usageDescription: subArray[3],
+  usageRestrictionReason: subArray[4],
+  exampleWord: subArray[5],
+  exampleSentence: subArray[6],
+  solution: subArray[7],
+  cautionNotice: subArray[8],
+  usageIssueUrl: subArray[9],
 }));
 
 // console.log(result_obj.length);
