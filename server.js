@@ -1,10 +1,28 @@
 const express = require("express");
+const errorhandler = require("./middlewares/errorhandler.js");
 const expressLayouts = require("express-ejs-layouts");
 const app = express();
 
 app.use(expressLayouts);
+app.use(express.json());
+app.use(express.urlencoded({ extended: true }));
 app.set("view engine", "ejs");
 app.set("layout", "./layouts/layout");
+
+// 에러를 생성하는 라우트 (예시용)
+app.get("/error", (req, res, next) => {
+  const error = new Error("This is a forced error.");
+  error.status = 500;
+  next(error);
+});
+
+app.use((req, res, next) => {
+  const error = new Error("Not Found");
+  error.status = 404;
+  next(error);
+});
+
+app.use(errorhandler);
 app.listen(8082, () => {
   console.log("http://localhost:8082");
   console.log("http://localhost:8082/testjs");
@@ -17,10 +35,5 @@ app.get("/", function (req, res) {
   res.render("index.ejs");
 });
 
-const sponsoredtagRoutes = require("./routes/sponsoredtag");
+const sponsoredtagRoutes = require("./routes/sponsoredtagRoutes");
 app.use("/sponsoredtag", sponsoredtagRoutes);
-
-/* 에러 핸들링 */
-app.use(function (req, res, next) {
-  return res.status(404).render("./errors/404.ejs");
-});
