@@ -9,6 +9,16 @@ app.use(express.urlencoded({ extended: true }));
 app.set("view engine", "ejs");
 app.set("layout", "./layouts/layout");
 
+app.use(express.static("public"));
+
+/* 라우팅 */
+app.get("/", function (req, res) {
+  res.render("index.ejs");
+});
+
+const sponsoredtagRoutes = require("./routes/sponsoredtagRoutes");
+app.use("/sponsoredtag", sponsoredtagRoutes);
+
 // 에러를 생성하는 라우트 (예시용)
 app.get("/error", (req, res, next) => {
   const error = new Error("This is a forced error.");
@@ -23,17 +33,8 @@ app.use((req, res, next) => {
 });
 
 app.use(errorhandler);
+
 app.listen(8082, () => {
   console.log("http://localhost:8082");
   console.log("http://localhost:8082/testjs");
 });
-
-app.use(express.static("public"));
-
-/* 라우팅 */
-app.get("/", function (req, res) {
-  res.render("index.ejs");
-});
-
-const sponsoredtagRoutes = require("./routes/sponsoredtagRoutes");
-app.use("/sponsoredtag", sponsoredtagRoutes);
