@@ -41,22 +41,18 @@ router.get("", (req, res) => {
   res.render("./sponsoredtags/st-main.ejs");
 });
 
-router.get("/checker", (req, res) => {
-  res.render("./sponsoredtags/st-checker.ejs");
+router.get("/check", (req, res) => {
+  res.render("./sponsoredtags/st-check.ejs");
 });
 
-router.get("/keyword", (req, res) => {
-  res.render("./sponsoredtags/st-keyword.ejs", {
+router.get("/dictionary", (req, res) => {
+  res.render("./sponsoredtags/st-dictionary.ejs", {
     result_obj: result_obj,
   });
 });
 
-router.get("/sentence", (req, res) => {
-  res.render("./sponsoredtags/st-sentence.ejs");
-});
-
-router.get("/case", (req, res) => {
-  res.render("./sponsoredtags/st-case.ejs");
+router.get("/guidance", (req, res) => {
+  res.render("./sponsoredtags/st-guidance.ejs");
 });
 
 router.get("/guide", (req, res) => {
