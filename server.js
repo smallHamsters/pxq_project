@@ -17,6 +17,7 @@ app.get("/", function (req, res) {
 });
 
 const sponsoredtagRoutes = require("./routes/sponsoredtagRoutes");
+const router = require("./routes/sponsoredtagRoutes");
 app.use("/sponsoredtag", sponsoredtagRoutes);
 
 // 에러를 생성하는 라우트 (예시용)

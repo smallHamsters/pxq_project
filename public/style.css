@@ -1,3 +1,21 @@
+ul {
+  list-style: none;
+  padding-left: 0;
+  padding-bottom: 0.2rem;
+}
+
+a {
+  text-decoration-line: none;
+}
+
+h6 {
+  font-weight: 700;
+}
+
+.border-radius {
+  border-radius: 10px;
+}
+
 .row-flexible {
   display: flex; !important
   flex-flow: row wrap;

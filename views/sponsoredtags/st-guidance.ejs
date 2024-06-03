@@ -1,116 +1,404 @@
 <div class="pb-2">
-  <h2>📑상황별 문구완성</h2>
+  <h2>📑상황별 추천문구</h2>
   <h4>플랫폼‚ 상황별 공정위문구를 추천합니다.</h4>
+  <div><%=result_obj_guidance[5]%></div>
 </div>
 
 <div class="row">
   <!-- 플랫폼 선택 -->
-  <div class="col-6 col-lg-3">
-    <h5>플랫폼 선택</h5>
-    <!--네이버-->
-    <div>
-      <h6>네이버</h6>
-      <div class="form-check">
-        <input
-          class="form-check-input"
-          type="radio"
-          name="flexRadioDefault"
-          id="flexRadioDefault1"
-        />
-        <label class="form-check-label" for="flexRadioDefault1">
-          네이버 블로그
-        </label>
-      </div>
-      <div class="form-check">
-        <input
-          class="form-check-input"
-          type="radio"
-          name="flexRadioDefault"
-          id="flexRadioDefault2"
-        />
-        <label class="form-check-label" for="flexRadioDefault2">
-          네이버 영수증 리뷰
-        </label>
-      </div>
-      <div class="form-check">
-        <input
-          class="form-check-input"
-          type="radio"
-          name="flexRadioDefault"
-          id="flexRadioDefault3"
-        />
-        <label class="form-check-label" for="flexRadioDefault3">
-          네이버 스마트스토어 리뷰
-        </label>
-      </div>
+  <div class="col-lg-3 col-md-6">
+    <div class="pt-2">
+      <h5>1. 플랫폼 선택</h5>
     </div>
-    <!--유튜브-->
-    <div>
-      <h6>유튜브</h6>
-      <div class="form-check">
-        <input
-          class="form-check-input"
-          type="radio"
-          name="flexRadioDefault"
-          id="flexRadioDefault4"
-        />
-        <label class="form-check-label" for="flexRadioDefault4"> 동영상 </label>
+    <div
+      id="platforms"
+      class="p-2 sol-sm-12"
+      style="
+        background-color: #f5fbff;
+        border-radius: 10px;
+        border: solid 2px #f5fbff;
+      "
+    >
+      <!--네이버-->
+      <div>
+        <ul>
+          <h6>네이버</h6>
+          <li>
+            <div class="form-check">
+              <input
+                class="form-check-input"
+                type="radio"
+                name="radioPlatfrom"
+                id="radioNaverBlog"
+              />
+              <label class="form-check-label" for="radioNaverBlog">
+                네이버 블로그
+              </label>
+            </div>
+          </li>
+          <li>
+            <div class="form-check">
+              <input
+                class="form-check-input"
+                type="radio"
+                name="radioPlatfrom"
+                id="radioNaverReceiptreview"
+              />
+              <label class="form-check-label" for="radioNaverReceiptreview">
+                네이버 영수증 리뷰
+              </label>
+            </div>
+          </li>
+          <li>
+            <div class="form-check">
+              <input
+                class="form-check-input"
+                type="radio"
+                name="radioPlatfrom"
+                id="radioNaverSmartsorereview"
+              />
+              <label class="form-check-label" for="radioNaverSmartsorereview">
+                스마트스토어 리뷰
+              </label>
+            </div>
+          </li>
+        </ul>
       </div>
-      <div class="form-check">
-        <input
-          class="form-check-input"
-          type="radio"
-          name="flexRadioDefault"
-          id="flexRadioDefault5"
-        />
-        <label class="form-check-label" for="flexRadioDefault5"> 쇼츠 </label>
+      <!--유튜브-->
+      <div>
+        <ul>
+          <h6>유튜브</h6>
+          <li>
+            <div class="form-check">
+              <input
+                class="form-check-input"
+                type="radio"
+                name="radioPlatfrom"
+                id="radioYoutubeLong"
+              />
+              <label class="form-check-label" for="radioYoutubeLong">
+                동영상
+              </label>
+            </div>
+          </li>
+          <li>
+            <div class="form-check">
+              <input
+                class="form-check-input"
+                type="radio"
+                name="radioPlatfrom"
+                id="radioYoutubeShorts"
+              />
+              <label class="form-check-label" for="radioYoutubeShorts">
+                쇼츠
+              </label>
+            </div>
+          </li>
+          <li>
+            <div class="form-check">
+              <input
+                class="form-check-input"
+                type="radio"
+                name="radioPlatfrom"
+                id="radioYoutubeCommunity"
+              />
+              <label class="form-check-label" for="radioYoutubeCommunity">
+                커뮤니티
+              </label>
+            </div>
+          </li>
+        </ul>
       </div>
-    </div>
-    <!--인스타그램-->
-    <div>
-      <h6>인스타그램</h6>
-      <div class="form-check">
-        <input
-          class="form-check-input"
-          type="radio"
-          name="flexRadioDefault"
-          id="flexRadioDefault6"
-        />
-        <label class="form-check-label" for="flexRadioDefault6"> 피드 </label>
+      <!--인스타그램-->
+      <div>
+        <ul>
+          <h6>인스타그램</h6>
+          <li>
+            <div class="form-check">
+              <input
+                class="form-check-input"
+                type="radio"
+                name="radioPlatfrom"
+                id="radioPlatfrom6"
+              />
+              <label class="form-check-label" for="radioPlatfrom6">
+                피드
+              </label>
+            </div>
+          </li>
+          <li>
+            <div class="form-check">
+              <input
+                class="form-check-input"
+                type="radio"
+                name="radioPlatfrom"
+                id="radioPlatfrom7"
+              />
+              <label class="form-check-label" for="radioPlatfrom7">
+                릴스
+              </label>
+            </div>
+          </li>
+        </ul>
       </div>
-      <div class="form-check">
-        <input
-          class="form-check-input"
-          type="radio"
-          name="flexRadioDefault"
-          id="flexRadioDefault7"
-        />
-        <label class="form-check-label" for="flexRadioDefault7"> 릴스 </label>
-      </div>
-    </div>
-    <!--다음 카카오-->
-    <div>
-      <h6>다음 카카오</h6>
-      <div class="form-check">
-        <input
-          class="form-check-input"
-          type="radio"
-          name="flexRadioDefault"
-          id="flexRadioDefault8"
-        />
-        <label class="form-check-label" for="flexRadioDefault8">
-          카카오맵
-        </label>
+      <!--다음 카카오-->
+      <div>
+        <ul>
+          <h6>다음 카카오</h6>
+          <li>
+            <div class="form-check">
+              <input
+                class="form-check-input"
+                type="radio"
+                name="radioPlatfrom"
+                id="radioPlatfrom8"
+              />
+              <label class="form-check-label" for="radioPlatfrom8">
+                카카오맵
+              </label>
+            </div>
+          </li>
+        </ul>
       </div>
     </div>
   </div>
   <!-- 경제적 이해관계 형태 선택 -->
-  <div class="col-6 col-lg-3">
-    <h5>경제적 이해관계 선택</h5>
+  <div class="col-lg-3 col-md-6 relation">
+    <div>
+      <h5 class="pt-2">2. 경제적 이해관계 선택</h5>
+    </div>
+    <div
+      class="p-2"
+      style="
+        background-color: #e3f2fd;
+        border-radius: 10px;
+        border: solid 2px #e3f2fd;
+      "
+    >
+      <!--협찬-->
+      <div>
+        <ul>
+          <h6>협찬</h6>
+          <li>
+            <div class="form-check">
+              <input
+                class="form-check-input"
+                type="radio"
+                name="radioRelation"
+                id="relation1"
+              />
+              <label class="form-check-label" for="relation1">
+                상품‚서비스 전액지원
+              </label>
+            </div>
+          </li>
+        </ul>
+      </div>
+      <!--할인혜택-->
+      <div>
+        <ul>
+          <h6>할인 혜택</h6>
+          <li>
+            <div class="form-check">
+              <input
+                class="form-check-input"
+                type="radio"
+                name="radioRelation"
+                id="relation2"
+              />
+              <label class="form-check-label" for="relation2"> 할인권 </label>
+            </div>
+          </li>
+          <li>
+            <div class="form-check">
+              <input
+                class="form-check-input"
+                type="radio"
+                name="radioRelation"
+                id="relation3"
+              />
+              <label class="form-check-label" for="relation3">
+                일부 내돈내산
+              </label>
+            </div>
+          </li>
+        </ul>
+      </div>
+      <!--적립금-->
+      <div>
+        <ul>
+          <h6>적립금</h6>
+          <li>
+            <div class="form-check">
+              <input
+                class="form-check-input"
+                type="radio"
+                name="radioRelation"
+                id="relation4"
+              />
+              <label class="form-check-label" for="relation4"> 적립금 </label>
+            </div>
+          </li>
+          <li>
+            <div class="form-check">
+              <input
+                class="form-check-input"
+                type="radio"
+                name="radioRelation"
+                id="relation5"
+              />
+              <label class="form-check-label" for="relation5"> 포인트 </label>
+            </div>
+          </li>
+        </ul>
+      </div>
+      <!--제휴마케팅-->
+      <div>
+        <ul>
+          <h6>제휴마케팅</h6>
+          <li>
+            <div class="form-check">
+              <input
+                class="form-check-input"
+                type="radio"
+                name="radioRelation"
+                id="relation6"
+              />
+              <label class="form-check-label" for="relation6">
+                제휴마케팅
+              </label>
+            </div>
+          </li>
+        </ul>
+      </div>
+      <!--금전적 지원-->
+      <div>
+        <ul>
+          <h6>금전적 지원</h6>
+          <li>
+            <div class="form-check">
+              <input
+                class="form-check-input"
+                type="radio"
+                name="radioRelation"
+                id="relation7"
+              />
+              <label class="form-check-label" for="relation7"> 원고료 </label>
+            </div>
+          </li>
+          <li>
+            <div class="form-check">
+              <input
+                class="form-check-input"
+                type="radio"
+                name="radioRelation"
+                id="relation8"
+              />
+              <label class="form-check-label" for="relation8"> 광고료 </label>
+            </div>
+          </li>
+          <li>
+            <div class="form-check">
+              <input
+                class="form-check-input"
+                type="radio"
+                name="radioRelation"
+                id="relation9"
+              />
+              <label class="form-check-label" for="relation9"> 제작비 </label>
+            </div>
+          </li>
+          <li>
+            <div class="form-check">
+              <input
+                class="form-check-input"
+                type="radio"
+                name="radioRelation"
+                id="relation10"
+              />
+              <label class="form-check-label" for="relation10"> 수수료 </label>
+            </div>
+          </li>
+        </ul>
+      </div>
+      <!--모델활동-->
+      <div>
+        <ul>
+          <h6>모델활동</h6>
+          <li>
+            <div class="form-check">
+              <input
+                class="form-check-input"
+                type="radio"
+                name="radioRelation"
+                id="relation11"
+              />
+              <label class="form-check-label" for="relation11">
+                모델활동
+              </label>
+            </div>
+          </li>
+        </ul>
+      </div>
+      <!--공동구매-->
+      <div>
+        <ul>
+          <h6>공동구매</h6>
+          <li>
+            <div class="form-check">
+              <input
+                class="form-check-input"
+                type="radio"
+                name="radioRelation"
+                id="relation12"
+              />
+              <label class="form-check-label" for="relation12">
+                공동구매
+              </label>
+            </div>
+          </li>
+        </ul>
+      </div>
+      <!--무료대여-->
+      <div>
+        <ul>
+          <h6>무료대여</h6>
+          <li>
+            <div class="form-check">
+              <input
+                class="form-check-input"
+                type="radio"
+                name="radioRelation"
+                id="relation13"
+              />
+              <label class="form-check-label" for="relation13">
+                무료대여
+              </label>
+            </div>
+          </li>
+        </ul>
+      </div>
+      <!--기타-->
+      <div>
+        <ul>
+          <h6>기타</h6>
+          <li>
+            <div class="form-check">
+              <input
+                class="form-check-input"
+                type="radio"
+                name="radioRelation"
+                id="relation14"
+              />
+              <label class="form-check-label" for="relation14"> 기타 </label>
+            </div>
+          </li>
+        </ul>
+      </div>
+    </div>
   </div>
 
   <!-- 예시 그림 보여주는 곳-->
-  <div class="col-12 col-lg-6">
-    <h5>가이던스</h5>
-  </div>
+  <%- include('./partial-guidance.ejs'); %>
 </div>
+<script src="/js/st-guidance.js"></script>

@@ -1,0 +1,36 @@
+<div class="col-lg-6 col-md-12">
+  <div>
+    <h5 class="pt-2">3. 결과</h5>
+  </div>
+  <div
+    class="p-2"
+    style="
+      background-color: #e3f2fd;
+      border-radius: 10px;
+      border: solid 2px #e3f2fd;
+    "
+  >
+    <div class="pb-2">
+      <h6>기재 가능 영역</h6>
+      <img src="" />
+    </div>
+    <% for (let i = 0; i < result_obj_guidance.length; i++) { %>
+    <div class="r-example hide">
+      <div class="pb-2">
+        <h6>기재 추천 문구</h6>
+        <p class="guidanceExampleWord">
+          <b>단어: </b> <%=result_obj_guidance[i].exampleWord%>
+        </p>
+        <p class="guidanceExampleSentence">
+          <b>문장: </b> <%=result_obj_guidance[i].exampleSentence%>
+        </p>
+      </div>
+      <div class="pb-2">
+        <p class="guidanceExampleCautionNotice">
+          <b>주의사항: </b><%=result_obj_guidance[i].cautionNotice%>
+        </p>
+      </div>
+    </div>
+    <% } %>
+  </div>
+</div>
