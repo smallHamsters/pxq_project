@@ -43,6 +43,11 @@ h6 {
   flex: 1 1 70%;
 }
 
+.f-100 {
+  max-width: 100%;
+  flex: 1 1 100%;
+}
+
 .hide {
   display: none;
 }
@@ -78,5 +83,14 @@ background-color: #f4ffe925;
 @media screen and (max-width: 768px) {
   #navSearchInput {
     display: none !important;
+  }
+
+  .guidance-photo {
+    display: block;
+  }
+
+  .guidance-photo > .f-50 {
+    max-width: 100%;
+    flex: 1 1 100%;
   }
 }

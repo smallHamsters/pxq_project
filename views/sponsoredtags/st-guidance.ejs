@@ -1,12 +1,15 @@
 <div class="pb-2">
   <h2>📑상황별 추천문구</h2>
-  <h4>플랫폼‚ 상황별 공정위문구를 추천합니다.</h4>
-  <div><%=result_obj_guidance[5]%></div>
+  <div class="alert alert-warning" role="alert">
+    <h4>플랫폼‚ 상황별 공정위문구를 추천합니다.</h4>
+    <p class="mb-0">플랫폼 선택 후 경제적 이해관계를 선택해주세요.</p>
+    <p class="mb-0">공정위 문구 표시를 준수하는 당신이 미래입니다.</p>
+  </div>
 </div>
 
 <div class="row">
   <!-- 플랫폼 선택 -->
-  <div class="col-lg-3 col-md-6">
+  <div class="col-lg-3 col-md-6 platform">
     <div class="pt-2">
       <h5>1. 플랫폼 선택</h5>
     </div>
@@ -28,7 +31,7 @@
               <input
                 class="form-check-input"
                 type="radio"
-                name="radioPlatfrom"
+                name="radioPlatform"
                 id="radioNaverBlog"
               />
               <label class="form-check-label" for="radioNaverBlog">
@@ -41,7 +44,7 @@
               <input
                 class="form-check-input"
                 type="radio"
-                name="radioPlatfrom"
+                name="radioPlatform"
                 id="radioNaverReceiptreview"
               />
               <label class="form-check-label" for="radioNaverReceiptreview">
@@ -54,7 +57,7 @@
               <input
                 class="form-check-input"
                 type="radio"
-                name="radioPlatfrom"
+                name="radioPlatform"
                 id="radioNaverSmartsorereview"
               />
               <label class="form-check-label" for="radioNaverSmartsorereview">
@@ -73,7 +76,7 @@
               <input
                 class="form-check-input"
                 type="radio"
-                name="radioPlatfrom"
+                name="radioPlatform"
                 id="radioYoutubeLong"
               />
               <label class="form-check-label" for="radioYoutubeLong">
@@ -86,24 +89,11 @@
               <input
                 class="form-check-input"
                 type="radio"
-                name="radioPlatfrom"
+                name="radioPlatform"
                 id="radioYoutubeShorts"
               />
               <label class="form-check-label" for="radioYoutubeShorts">
                 쇼츠
-              </label>
-            </div>
-          </li>
-          <li>
-            <div class="form-check">
-              <input
-                class="form-check-input"
-                type="radio"
-                name="radioPlatfrom"
-                id="radioYoutubeCommunity"
-              />
-              <label class="form-check-label" for="radioYoutubeCommunity">
-                커뮤니티
               </label>
             </div>
           </li>
@@ -118,12 +108,10 @@
               <input
                 class="form-check-input"
                 type="radio"
-                name="radioPlatfrom"
-                id="radioPlatfrom6"
+                name="radioPlatform"
+                id="radioIg"
               />
-              <label class="form-check-label" for="radioPlatfrom6">
-                피드
-              </label>
+              <label class="form-check-label" for="radioIg"> 피드 </label>
             </div>
           </li>
           <li>
@@ -131,12 +119,10 @@
               <input
                 class="form-check-input"
                 type="radio"
-                name="radioPlatfrom"
-                id="radioPlatfrom7"
+                name="radioPlatform"
+                id="radioIgReels"
               />
-              <label class="form-check-label" for="radioPlatfrom7">
-                릴스
-              </label>
+              <label class="form-check-label" for="radioIgReels"> 릴스 </label>
             </div>
           </li>
         </ul>
@@ -150,10 +136,10 @@
               <input
                 class="form-check-input"
                 type="radio"
-                name="radioPlatfrom"
-                id="radioPlatfrom8"
+                name="radioPlatform"
+                id="radioKakaomap"
               />
-              <label class="form-check-label" for="radioPlatfrom8">
+              <label class="form-check-label" for="radioKakaomap">
                 카카오맵
               </label>
             </div>
@@ -399,6 +385,6 @@
   </div>
 
   <!-- 예시 그림 보여주는 곳-->
-  <%- include('./partial-guidance.ejs'); %>
+  <%- include('./div-guidance.ejs'); %>
 </div>
 <script src="/js/st-guidance.js"></script>
