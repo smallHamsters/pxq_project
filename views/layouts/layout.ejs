@@ -16,15 +16,18 @@
       crossorigin="anonymous"
     ></script>
     <link href="/style.css" rel="stylesheet" type="text/css" />
+    <link rel="icon" href="/favicon.png" type="image/png" />
   </head>
   <body>
     <container class="container">
-      <header><%- include('./header.ejs') %></header>
+      <header style="border-bottom: 1px solid #e7e7e7">
+        <%- include('./header.ejs') %>
+      </header>
       <main>
         <%- include('./nav.ejs') %>
         <div class="mx-3 mt-3 mb-5 px-3"><%- body %></div>
       </main>
-      <footer style="background: rgb(0, 23, 71); color: white">
+      <footer style="background: #001747; color: white">
         <%- include('./footer.ejs') %>
       </footer>
     </container>
