@@ -71,12 +71,12 @@ h6 {
   background-color: #eeeeee;
 }
 
-.bg-green {
-  background-color: #f4ffe9;
+.bg-blue100 {
+  background-color: #E6F2FF;
 }
 
-.bg-yellowgreen {
-background-color: #f4ffe925;
+.bg-blue25 {
+  background-color: #E6F2FF25;
 }
 
 /* .list-detail > div > div {
