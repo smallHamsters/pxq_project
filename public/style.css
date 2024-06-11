@@ -8,6 +8,9 @@ a {
   text-decoration-line: none;
 }
 
+h1 > a {
+  color: black
+}
 h6 {
   font-weight: 700;
 }
