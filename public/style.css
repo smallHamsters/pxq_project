@@ -72,8 +72,11 @@ h6 {
   background-color: #eeeeee;
 }
 
-.br-8 {
-  border-radius: 8px;
+.br-t-8 {
+  border-radius: 8px 8px 0 0;
+}
+.br-b-8 {
+  border-radius: 0 0 8px 8px;
 }
 
 .list-detail {
@@ -83,6 +86,7 @@ h6 {
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
   transition: all 0.3s ease;
 }
+
 @keyframes slideDown {
   from {
     transform: translateY(-20px);
