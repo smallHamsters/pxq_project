@@ -55,8 +55,9 @@ h6 {
   display: none;
 }
 
-.show {
+.slide-down-show {
   display: block;
+  animation: slideDown 0.3s ease-out;
 }
 
 .thick-underline {
@@ -69,6 +70,28 @@ h6 {
 
 .list-d:hover {
   background-color: #eeeeee;
+}
+
+.br-8 {
+  border-radius: 8px;
+}
+
+.list-detail {
+  padding: 0 20px 20px 20px;
+  margin-bottom: 20px;
+  background-color: #fff;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  transition: all 0.3s ease;
+}
+@keyframes slideDown {
+  from {
+    transform: translateY(-20px);
+    opacity: 0;
+  }
+  to {
+    transform: translateY(0);
+    opacity: 1;
+  }
 }
 
 .bg-blue100 {
@@ -89,9 +112,9 @@ h6 {
   box-shadow: 0 8px 15px rgba(0, 0, 0, 0.3);
 }
 
-/* .list-detail > div > div {
+.list-detail > div > div {
   padding: 0.3rem 0;
-} */
+}
 
 @media screen and (max-width: 768px) {
   #navSearchInput {
