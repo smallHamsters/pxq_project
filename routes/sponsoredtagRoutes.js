@@ -126,8 +126,8 @@ router.get("/dictionary", (req, res) => {
   });
 });
 
-router.get("/guidance", (req, res) => {
-  res.render("./sponsoredtags/st-guidance.ejs", {
+router.get("/recommendation", (req, res) => {
+  res.render("./sponsoredtags/st-recommendation.ejs", {
     result_obj_guidance: result_obj_guidance,
   });
 });

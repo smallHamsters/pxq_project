@@ -55,6 +55,10 @@ h6 {
   display: none;
 }
 
+.show {
+  display: block;
+}
+
 .slide-down-show {
   display: block;
   animation: slideDown 0.3s ease-out;
@@ -65,7 +69,11 @@ h6 {
 }
 
 .thin-underline {
-  border-bottom: solid 1px gray;
+  border-bottom: solid 1px #C2C2C2;
+}
+
+.list-d {
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
 }
 
 .list-d:hover {
@@ -80,7 +88,7 @@ h6 {
 }
 
 .list-detail {
-  padding: 0 20px 20px 20px;
+  padding: 10px 20px 20px 20px;
   margin-bottom: 20px;
   background-color: #fff;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
