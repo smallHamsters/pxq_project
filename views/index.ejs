@@ -12,20 +12,7 @@
         <div class="card-body">
           <!-- <h5 class="card-title">공정위문구</h5>
           <p class="card-text">올바른 공정위문구 작성하기</p> -->
-          <form class="d-flex" role="search">
-            <input
-              class="form-control me-2"
-              type="search"
-              placeholder="공정위문구 검색"
-              aria-label="Search"
-              pattern="^[a-zA-Z0-9가-힣]{1,50}$"
-            />
-            <button class="btn btn-outline-primary" type="submit">
-              Search
-            </button>
-          </form>
-          <div class="form-text">&#8251; 50자 이내, 특수문자 입력불가</div>
-          <div class="form-text">e.g. '서포터즈', '광고', 'AD'</div>
+          <%- include('sponsoredtags/div-st-search.ejs'); %>
         </div>
       </div>
     </div>
