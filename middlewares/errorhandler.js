@@ -1,5 +1,6 @@
 function errorhandler(err, req, res, next) {
-  let statusCode = err.status || 500;
+  let statusCode = err.status;
+  // || 500;
   let message;
 
   switch (statusCode) {
@@ -17,11 +18,11 @@ function errorhandler(err, req, res, next) {
     case 404:
       message = "Not Found: The requested resource could not be found.";
       break;
-    case 500:
-    default:
-      message =
-        "Internal Server Error: The server encountered an unexpected condition that prevented it from fulfilling the request.";
-      break;
+    // case 500:
+    // default:
+    //   message =
+    //     "Internal Server Error: The server encountered an unexpected condition that prevented it from fulfilling the request.";
+    //   break;
   }
 
   res.status(statusCode);

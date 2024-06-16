@@ -112,27 +112,50 @@ for (let i = 0; i < exampleWord_guidance.length; i++) {
 
 // console.log(result_obj_guidance);
 
-router.get("", (req, res) => {
+router.get("", async (req, res) => {
   res.render("./sponsoredtags/st-main.ejs");
 });
 
-router.get("/check", (req, res) => {
+router.get("/check/main", async (req, res, next) => {
   res.render("./sponsoredtags/st-check.ejs");
 });
 
-router.get("/dictionary", (req, res) => {
+router.get("/check", async (req, res, next) => {
+  // console.log(req.query);
+  try {
+    const searchTerm = req.query.value;
+    if (!searchTerm) {
+      return res.redirect("/sponsoredtag/check/main");
+    } else {
+      const regex = new RegExp(searchTerm.toLowerCase(), "i");
+      const filteredKeywords = result_obj.filter((obj) =>
+        regex.test(obj.keyword.toLowerCase())
+      );
+      // console.log("검색어가 포함된 객체:", filteredKeywords);
+      return res.render("./sponsoredtags/st-check-result.ejs", {
+        searchTerm,
+        filteredKeywords,
+      });
+    }
+  } catch {
+    return res.render("/check/main");
+  }
+  next();
+});
+
+router.get("/dictionary", async (req, res) => {
   res.render("./sponsoredtags/st-dictionary.ejs", {
     result_obj: result_obj,
   });
 });
 
-router.get("/recommendation", (req, res) => {
+router.get("/recommendation", async (req, res) => {
   res.render("./sponsoredtags/st-recommendation.ejs", {
     result_obj_guidance: result_obj_guidance,
   });
 });
 
-router.get("/guide", (req, res) => {
+router.get("/guide", async (req, res) => {
   res.render("./sponsoredtags/st-guide.ejs");
 });
 

@@ -2,7 +2,13 @@ const express = require("express");
 const errorhandler = require("./middlewares/errorhandler.js");
 const expressLayouts = require("express-ejs-layouts");
 const app = express();
-
+const cors = require("cors");
+app.use(
+  cors({
+    origin: "http://localhost:8085",
+    credentials: true,
+  })
+);
 app.use(expressLayouts);
 app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
@@ -12,12 +18,11 @@ app.set("layout", "./layouts/layout");
 app.use(express.static("public"));
 
 /* 라우팅 */
-app.get("/", function (req, res) {
+app.get("/", async (req, res) => {
   res.render("index.ejs");
 });
 
 const sponsoredtagRoutes = require("./routes/sponsoredtagRoutes");
-const router = require("./routes/sponsoredtagRoutes");
 app.use("/sponsoredtag", sponsoredtagRoutes);
 
 // 에러를 생성하는 라우트 (예시용)

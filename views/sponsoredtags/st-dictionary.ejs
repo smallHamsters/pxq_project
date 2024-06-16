@@ -10,7 +10,7 @@
   </div>
 </div>
 <div class="text-center">
-  <div class="list-h row-flexible">
+  <div class="list-h row-flexible pt-3 br-t-8 bg-gray">
     <div class="f-10">
       <p><b>no</b></p>
     </div>
@@ -25,7 +25,7 @@
     </div>
   </div>
   <% for (let i = 0; i < result_obj.length; i++) { %>
-  <div class="list-d br-t-8 row-flexible">
+  <div class="list-d br-t-8 row-flexible box-shadow">
     <div class="pt-3 f-10"><p><%=result_obj[i].number%></p></div>
     <div class="pt-3 f-30"><p><%=result_obj[i].keyword%></p></div>
     <div class="pt-3 f-30"><p><%=result_obj[i].usageStatus%></p></div>
@@ -38,7 +38,7 @@
       </button>
     </div>
   </div>
-  <div class="list-detail br-b-8 hide bg-blue25">
+  <div class="list-detail br-b-8 hide bg-blue25 box-shadow">
     <div class="row-flexible thin-underline text-start">
       <div class="f-30">◼ 키워드</div>
       <div class="f-70"><%=result_obj[i].keyword%></div>

@@ -1,0 +1,100 @@
+<div class="pb-2">
+  <h2>🔎문구 검사기</h2>
+  <h4>올바른 공정위 문구인지 확인해보세요.</h4>
+</div>
+
+<div>
+  <!-- input & button 넣기 -->
+  <%- include('./div-st-search.ejs'); %>
+</div>
+<!-- 검색결과 창-->
+<div class="box-shadow py-3 px-2 mt-2">
+  <h4 class="mt-2 px-1">❝ <%= searchTerm %> ❞ 검색결과</h4>
+  <div class="alert alert-warning" role="alert">
+    <div class="p-1">
+      ▪ 더 많은 공정위문구는
+      <a href="/sponsoredtag/dictionary">단어사전</a>에서 확인하세요.
+    </div>
+    <div class="p-1">
+      ▪ 어디에 어떻게 써야할지 모르겠다면? <br />
+      <a href="/sponsoredtag/recommendation">👉상황별 추천문구</a>에서
+      추천해드립니다.
+    </div>
+  </div>
+  <!-- 검색리스트 -->
+  <div class="text-center">
+    <div class="list-h row-flexible pt-3 br-t-8 bg-gray">
+      <div class="f-10">
+        <p><b>no</b></p>
+      </div>
+      <div class="f-30">
+        <p><b>단어</b></p>
+      </div>
+      <div class="f-30">
+        <p><b>사용가부</b></p>
+      </div>
+      <div class="f-30">
+        <p><b>자세히</b></p>
+      </div>
+    </div>
+    <% if ( filteredKeywords == '') { %>
+    <div class="p-3 box-shadow br-b-8">
+      <p>🛑검색결과가 없습니다.</p>
+      <a href="/sponsoredtag/dictionary">👉단어사전에서 확인하기</a>
+    </div>
+    <% } else {%> <% for (let i = 0; i < filteredKeywords.length; i++) { %>
+    <div class="list-d br-t-8 row-flexible box-shadow">
+      <div class="pt-3 f-10"><p><%=i+1%></p></div>
+      <div class="pt-3 f-30"><p><%=filteredKeywords[i].keyword%></p></div>
+      <div class="pt-3 f-30"><p><%=filteredKeywords[i].usageStatus%></p></div>
+      <div class="f-30">
+        <button
+          type="button"
+          class="btn btn-outline-primary st-keyword-detail-toggle"
+        >
+          자세히
+        </button>
+      </div>
+    </div>
+    <div class="list-detail br-b-8 hide bg-blue25 box-shadow">
+      <div class="row-flexible thin-underline text-start">
+        <div class="f-30">◼ 키워드</div>
+        <div class="f-70"><%=filteredKeywords[i].keyword%></div>
+      </div>
+      <div class="row-flexible thin-underline text-start">
+        <div class="f-30">◼ 사용 예시</div>
+        <div class="f-70">
+          <%=filteredKeywords[i].exampleWord%>
+          <br /><%=filteredKeywords[i].exampleSentence%> <br /><a
+            href="/sponsoredtag/recommendation"
+            >👉사용예시 사진 보러가기</a
+          >
+        </div>
+      </div>
+      <div class="row-flexible thin-underline text-start">
+        <div class="f-30">◼ 사용 제한</div>
+        <div class="f-70"><%=filteredKeywords[i].usageDescription%></div>
+      </div>
+      <div class="row-flexible thin-underline text-start">
+        <div class="f-30">◼ 제한 사유</div>
+        <div class="f-70"><%=filteredKeywords[i].usageRestrictionReason%></div>
+      </div>
+      <div class="row-flexible thin-underline text-start">
+        <div class="f-30">◼ 해결 방법</div>
+        <div class="f-70"><%=filteredKeywords[i].solution%></div>
+      </div>
+      <div class="row-flexible thin-underline text-start">
+        <div class="f-30">◼ 주의사항</div>
+        <div class="f-70"><%=filteredKeywords[i].cautionNotice%></div>
+      </div>
+      <div class="row-flexible text-start">
+        <div class="f-30">◼ 관련이슈</div>
+        <div class="f-70"><%=filteredKeywords[i].usageIssueUrl%></div>
+      </div>
+    </div>
+    <% } %> <% } %>
+  </div>
+</div>
+
+<script src="/js/stSearchClick.js"></script>
+<script src="/js/st-keyword.js"></script>
