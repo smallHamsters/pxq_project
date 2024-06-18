@@ -159,4 +159,15 @@ router.get("/guide", async (req, res) => {
   res.render("./sponsoredtags/st-guide.ejs");
 });
 
+router.get("/guide/blog", async (req, res) => {
+  res.render("./sponsoredtags/st-guide-blog.ejs");
+});
+
+router.get("/guide/youtube", async (req, res) => {
+  res.render("./sponsoredtags/st-guide-yt.ejs");
+});
+
+router.get("/guide/instagram", async (req, res) => {
+  res.render("./sponsoredtags/st-guide-ig.ejs");
+});
 module.exports = router;

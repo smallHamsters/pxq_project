@@ -1,51 +1,70 @@
 <div class="mt-3">
-  <div>
-    <div>
-      <h2>공지사항</h2>
-    </div>
-    <div>
-      <ul class="list-group list-group-flush">
-        <li class="list-group-item">PrismXQ 공정위문구 사용방법</li>
-        <li class="list-group-item">PrismXQ 문의방법</li>
-        <li class="list-group-item"></li>
-      </ul>
-    </div>
-  </div>
   <div class="row mt-4">
-    <div class="col-xl-6 col-md-12 mt-2">
+    <!--단어사전-->
+    <h2>
+      공정위문구 작성은 <b><i>PrismXQ!</i></b>
+    </h2>
+    <div class="col-xl-3 col-6 mt-3 text-center">
       <div>
-        <h2>공정위문구 가이드라인</h2>
+        <!-- <h2>단어사전</h2> -->
+        <div>
+          <a href="/sponsoredtag/dictionary"
+            ><img
+              src="/img/st-guide/btn001.png"
+              class="w-100 br-8 card card-shadow mx-auto"
+              style="width: 100%; max-width: 480px"
+          /></a>
+        </div>
+      </div>
+    </div>
+    <!--문구검사기-->
+    <div class="col-xl-3 col-6 mt-3 text-center">
+      <div>
+        <!-- <h2>문구 검사기</h2> -->
+        <div>
+          <a href="/sponsoredtag/check"
+            ><img
+              src="/img/st-guide/btn002.png"
+              class="w-100 br-8 card card-shadow mx-auto"
+              style="width: 100%; max-width: 480px"
+          /></a>
+        </div>
+      </div>
+    </div>
+    <!--가이드라인-->
+    <div class="col-xl-6 col-md-12 mt-3">
+      <div>
+        <!-- <h2 class="text-center">공정위문구 가이드라인</h2> -->
         <%- include('./div-carousel.ejs'); %>
         <ul class="list-group list-group-flush">
           <li class="list-group-item">
-            ▶&nbsp;<a href="#">네이버 블로그 가이드라인</a>
+            ▶&nbsp;<a href="/sponsoredtag/guide/blog"
+              >네이버 블로그 가이드라인</a
+            >
           </li>
           <li class="list-group-item">
-            ▶&nbsp;<a href="#">유튜브 가이드라인</a>
+            ▶&nbsp;<a href="/sponsoredtag/guide/youtube">유튜브 가이드라인</a>
           </li>
           <li class="list-group-item">
-            ▶&nbsp;<a href="#">인스타그램 가이드라인</a>
+            ▶&nbsp;<a href="/sponsoredtag/guide/instagram"
+              >인스타그램 가이드라인</a
+            >
           </li>
           <li class="list-group-item"></li>
         </ul>
       </div>
     </div>
-
-    <div class="col-xl-3 col-md-6 mt-2">
+    <!--공지사항-->
+    <div class="mt-5">
       <div>
-        <h2>단어사전</h2>
-        <div>
-          <a href="/sponsoredtag/dictionary"> 여기는 단어사전 </a>
-        </div>
+        <h2>공지사항</h2>
       </div>
-    </div>
-
-    <div class="col-xl-3 col-md-6 mt-2">
       <div>
-        <h2>문구 검사기</h2>
-        <div>
-          <a href="/sponsoredtag/check"> 여기는 문구검사기 </a>
-        </div>
+        <ul class="list-group list-group-flush">
+          <li class="list-group-item">PrismXQ 공정위문구 사용방법</li>
+          <li class="list-group-item">PrismXQ 문의방법</li>
+          <li class="list-group-item"></li>
+        </ul>
       </div>
     </div>
   </div>

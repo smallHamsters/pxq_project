@@ -86,6 +86,9 @@ h6 {
 .br-b-8 {
   border-radius: 0 0 8px 8px;
 }
+.br-8 {
+  border-radius: 8px;
+}
 
 .list-detail {
   padding: 10px 20px 20px 20px;
