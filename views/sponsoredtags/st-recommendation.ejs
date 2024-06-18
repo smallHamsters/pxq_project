@@ -2,8 +2,10 @@
   <h2>📑상황별 추천문구</h2>
   <div class="alert alert-warning" role="alert">
     <h4>플랫폼‚ 상황별 공정위문구를 추천합니다.</h4>
-    <p class="mb-0">플랫폼 선택 후 경제적 이해관계를 선택해주세요.</p>
-    <p class="mb-0">공정위 문구 표시를 준수하는 당신이 미래입니다.</p>
+    <p class="mb-0">
+      <b>플랫폼 선택</b> 후 <b>경제적 이해관계</b>를 선택해주세요.
+    </p>
+    <p class="mb-0"><b>결과</b>창에서 올바른 표시예시를 확인할 수 있습니다.</p>
   </div>
 </div>
 
@@ -15,136 +17,160 @@
     </div>
     <div
       id="platforms"
-      class="p-2 sol-sm-12"
-      style="
-        background-color: #f5fbff;
-        border-radius: 10px;
-        border: solid 2px #f5fbff;
-      "
+      class="p-3 br-t-8 br-b-8 box-shadow"
+      style="background-color: #f5fbff; min-height: 810px"
+      ;
     >
-      <!--네이버-->
       <div>
-        <ul>
-          <h6>네이버</h6>
-          <li>
-            <div class="form-check">
-              <input
-                class="form-check-input"
-                type="radio"
-                name="radioPlatform"
-                id="radioNaverBlog"
-              />
-              <label class="form-check-label" for="radioNaverBlog">
-                네이버 블로그
-              </label>
-            </div>
-          </li>
-          <li>
-            <div class="form-check">
-              <input
-                class="form-check-input"
-                type="radio"
-                name="radioPlatform"
-                id="radioNaverReceiptreview"
-              />
-              <label class="form-check-label" for="radioNaverReceiptreview">
-                네이버 영수증 리뷰
-              </label>
-            </div>
-          </li>
-          <li>
-            <div class="form-check">
-              <input
-                class="form-check-input"
-                type="radio"
-                name="radioPlatform"
-                id="radioNaverSmartsorereview"
-              />
-              <label class="form-check-label" for="radioNaverSmartsorereview">
-                스마트스토어 리뷰
-              </label>
-            </div>
-          </li>
-        </ul>
+        <!--네이버-->
+        <div>
+          <ul>
+            <h6>네이버</h6>
+            <li>
+              <div class="form-check">
+                <input
+                  class="form-check-input"
+                  type="radio"
+                  name="radioPlatform"
+                  id="radioNaverBlog"
+                />
+                <label class="form-check-label" for="radioNaverBlog">
+                  네이버 블로그
+                </label>
+              </div>
+            </li>
+            <li>
+              <div class="form-check">
+                <input
+                  class="form-check-input"
+                  type="radio"
+                  name="radioPlatform"
+                  id="radioNaverReceiptreview"
+                />
+                <label class="form-check-label" for="radioNaverReceiptreview">
+                  네이버 영수증 리뷰
+                </label>
+              </div>
+            </li>
+            <li>
+              <div class="form-check">
+                <input
+                  class="form-check-input"
+                  type="radio"
+                  name="radioPlatform"
+                  id="radioNaverSmartsorereview"
+                />
+                <label class="form-check-label" for="radioNaverSmartsorereview">
+                  스마트스토어 리뷰
+                </label>
+              </div>
+            </li>
+          </ul>
+        </div>
+        <!--유튜브-->
+        <div>
+          <ul>
+            <h6>유튜브</h6>
+            <li>
+              <div class="form-check">
+                <input
+                  class="form-check-input"
+                  type="radio"
+                  name="radioPlatform"
+                  id="radioYoutubeLong"
+                />
+                <label class="form-check-label" for="radioYoutubeLong">
+                  동영상
+                </label>
+              </div>
+            </li>
+            <li>
+              <div class="form-check">
+                <input
+                  class="form-check-input"
+                  type="radio"
+                  name="radioPlatform"
+                  id="radioYoutubeShorts"
+                />
+                <label class="form-check-label" for="radioYoutubeShorts">
+                  쇼츠
+                </label>
+              </div>
+            </li>
+          </ul>
+        </div>
+        <!--인스타그램-->
+        <div>
+          <ul>
+            <h6>인스타그램</h6>
+            <li>
+              <div class="form-check">
+                <input
+                  class="form-check-input"
+                  type="radio"
+                  name="radioPlatform"
+                  id="radioIg"
+                />
+                <label class="form-check-label" for="radioIg"> 피드 </label>
+              </div>
+            </li>
+            <li>
+              <div class="form-check">
+                <input
+                  class="form-check-input"
+                  type="radio"
+                  name="radioPlatform"
+                  id="radioIgReels"
+                />
+                <label class="form-check-label" for="radioIgReels">
+                  릴스
+                </label>
+              </div>
+            </li>
+          </ul>
+        </div>
+        <!--다음 카카오-->
+        <div>
+          <ul>
+            <h6>다음 카카오</h6>
+            <li>
+              <div class="form-check">
+                <input
+                  class="form-check-input"
+                  type="radio"
+                  name="radioPlatform"
+                  id="radioKakaomap"
+                />
+                <label class="form-check-label" for="radioKakaomap">
+                  카카오맵
+                </label>
+              </div>
+            </li>
+          </ul>
+        </div>
       </div>
-      <!--유튜브-->
-      <div>
-        <ul>
-          <h6>유튜브</h6>
-          <li>
-            <div class="form-check">
-              <input
-                class="form-check-input"
-                type="radio"
-                name="radioPlatform"
-                id="radioYoutubeLong"
-              />
-              <label class="form-check-label" for="radioYoutubeLong">
-                동영상
-              </label>
-            </div>
-          </li>
-          <li>
-            <div class="form-check">
-              <input
-                class="form-check-input"
-                type="radio"
-                name="radioPlatform"
-                id="radioYoutubeShorts"
-              />
-              <label class="form-check-label" for="radioYoutubeShorts">
-                쇼츠
-              </label>
-            </div>
-          </li>
-        </ul>
-      </div>
-      <!--인스타그램-->
-      <div>
-        <ul>
-          <h6>인스타그램</h6>
-          <li>
-            <div class="form-check">
-              <input
-                class="form-check-input"
-                type="radio"
-                name="radioPlatform"
-                id="radioIg"
-              />
-              <label class="form-check-label" for="radioIg"> 피드 </label>
-            </div>
-          </li>
-          <li>
-            <div class="form-check">
-              <input
-                class="form-check-input"
-                type="radio"
-                name="radioPlatform"
-                id="radioIgReels"
-              />
-              <label class="form-check-label" for="radioIgReels"> 릴스 </label>
-            </div>
-          </li>
-        </ul>
-      </div>
-      <!--다음 카카오-->
-      <div>
-        <ul>
-          <h6>다음 카카오</h6>
-          <li>
-            <div class="form-check">
-              <input
-                class="form-check-input"
-                type="radio"
-                name="radioPlatform"
-                id="radioKakaomap"
-              />
-              <label class="form-check-label" for="radioKakaomap">
-                카카오맵
-              </label>
-            </div>
-          </li>
-        </ul>
+
+      <div class="text-end form-text px-4" style="padding-top: 150px">
+        <div>
+          <img
+            src="/largeLogo.png"
+            width="50%"
+            style="
+              text-align: right;
+              opacity: 0.9;
+              max-width: 200px;
+              min-width: 150px;
+            "
+          />
+        </div>
+        <div>
+          <b
+            >공정위문구‚ 위험키워드 <br /><span style="font-size: large"
+              >백과사전 PrismXQ</span
+            ></b
+          >
+          <br />무단복제 및 상업적 이용 금지
+        </div>
       </div>
     </div>
   </div>
@@ -154,12 +180,8 @@
       <h5 class="pt-2">2. 경제적 이해관계 선택</h5>
     </div>
     <div
-      class="p-2"
-      style="
-        background-color: #e3f2fd;
-        border-radius: 10px;
-        border: solid 2px #e3f2fd;
-      "
+      class="p-3 br-t-8 br-b-8 box-shadow"
+      style="background-color: #e3f2fd; min-height: 810px"
     >
       <!--협찬-->
       <div>

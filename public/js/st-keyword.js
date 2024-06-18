@@ -1,4 +1,4 @@
-const result_obj_length = 53;
+const result_obj_length = document.querySelectorAll(".list-d").length;
 
 for (let i = 0; i < result_obj_length; i++) {
   document
