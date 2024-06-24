@@ -5,38 +5,10 @@
   </div>
   <div class="row">
     <!--캐러셀-->
-    <div class="col-md-8" style="align-content: center">
+    <div class="col-12" style="align-content: center">
       <%- include('./div-carousel.ejs'); %>
     </div>
     <!--플랫폼별 가이드라인-->
-    <div class="col-md-4 text-center" style="align-content: center">
-      <a href="/sponsoredtag/guide/blog">
-        <button
-          type="button"
-          class="btn btn-outline-success my-4 py-3"
-          style="width: 100%"
-        >
-          네이버 블로그 가이드
-        </button>
-      </a>
-      <a href="/sponsoredtag/guide/youtube">
-        <button
-          type="button"
-          class="btn btn-outline-success my-4 py-3"
-          style="width: 100%"
-        >
-          유튜브 가이드
-        </button>
-      </a>
-      <a href="/sponsoredtag/guide/instagram">
-        <button
-          type="button"
-          class="btn btn-outline-success my-4 py-3"
-          style="width: 100%"
-        >
-          인스타그램 가이드
-        </button>
-      </a>
-    </div>
+    <%- include('./div-st-guide-btns.ejs'); %>
   </div>
 </div>
