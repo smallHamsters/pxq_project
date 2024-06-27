@@ -170,12 +170,4 @@ router.get("/guide/youtube", async (req, res) => {
 router.get("/guide/instagram", async (req, res) => {
   res.render("./sponsoredtags/st-guide-ig.ejs");
 });
-
-router.get("/article", async (req, res) => {
-  res.render("./sponsoredtags/st-article.ejs");
-});
-
-router.get("/article/001", async (req, res) => {
-  res.render("./sponsoredtags/st-article-page001.ejs");
-});
 module.exports = router;

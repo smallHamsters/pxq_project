@@ -25,6 +25,12 @@ app.get("/", async (req, res) => {
 const sponsoredtagRoutes = require("./routes/sponsoredtagRoutes");
 app.use("/sponsoredtag", sponsoredtagRoutes);
 
+const riskykeywordRoutes = require("./routes/riskykeywordRoutes/riskykeywordRoutes.js");
+app.use("/riskykeyword", riskykeywordRoutes);
+
+const articleRoutes = require("./routes/articleRoutes/articleRoutes.js");
+app.use("/article", articleRoutes);
+
 // 에러를 생성하는 라우트 (예시용)
 app.get("/error", (req, res, next) => {
   const error = new Error("This is a forced error.");

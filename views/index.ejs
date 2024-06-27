@@ -10,29 +10,26 @@
           <img src="/img/index/001.png" class="card-img-top" alt="공정위문구" />
         </a>
         <div class="card-body">
-          <!-- <h5 class="card-title">공정위문구</h5>
-          <p class="card-text">올바른 공정위문구 작성하기</p> -->
           <%- include('sponsoredtags/div-st-search.ejs'); %>
         </div>
       </div>
     </div>
     <div class="col-lg-6 mb-3" style="width: 400px">
-      <div class="card card-shadow cardup">
-        <a href="#">
+      <div class="card card-shadow">
+        <a href="/riskykeyword">
           <img src="/img/index/002.png" class="card-img-top" alt="위험키워드" />
         </a>
         <div class="card-body">
-          <!-- <h5 class="card-title">위험키워드</h5>
-          <p class="card-text">안전하고 올바른 광고문구 작성하기</p> -->
           <form class="d-flex" role="search">
             <input
               class="form-control me-2"
               type="search"
-              placeholder="위험키워드 검색"
-              aria-label="Search"
+              placeholder="준비 중"
+              aria-label="Disabled input example"
+              disabled
               pattern="^[a-zA-Z0-9가-힣]{1,20}$"
             />
-            <button class="btn btn-outline-primary" type="submit">
+            <button class="btn btn-outline-secondary" type="submit" disabled>
               Search
             </button>
           </form>
