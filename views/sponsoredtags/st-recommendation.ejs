@@ -5,15 +5,17 @@
     <p class="mb-0">
       <b>플랫폼 선택</b> 후 <b>경제적 이해관계</b>를 선택해주세요.
     </p>
-    <p class="mb-0"><b>결과</b>창에서 올바른 표시예시를 확인할 수 있습니다.</p>
+    <p class="mb-0">
+      <b>추천 문구 및 표시 방법</b>에서 올바른 표시 예시를 확인할 수 있습니다.
+    </p>
   </div>
 </div>
 
-<div class="row g-2">
+<div class="row g-2 mb-5">
   <!-- 플랫폼 선택 -->
-  <div class="col-6 platform">
+  <div class="col-12 col-md-6 platform">
     <div class="pt-2">
-      <h5>1. 플랫폼 선택</h5>
+      <h5 class="ps-2">1. 플랫폼 선택</h5>
     </div>
     <div
       id="platforms"
@@ -25,7 +27,7 @@
         <!--네이버-->
         <div>
           <ul>
-            <h6>네이버</h6>
+            <h6>🔷 네이버</h6>
             <li>
               <div class="form-check">
                 <input
@@ -70,7 +72,7 @@
         <!--유튜브-->
         <div>
           <ul>
-            <h6>유튜브</h6>
+            <h6>🔷 유튜브</h6>
             <li>
               <div class="form-check">
                 <input
@@ -102,7 +104,7 @@
         <!--인스타그램-->
         <div>
           <ul>
-            <h6>인스타그램</h6>
+            <h6>🔷 인스타그램</h6>
             <li>
               <div class="form-check">
                 <input
@@ -132,7 +134,7 @@
         <!--다음 카카오-->
         <div>
           <ul>
-            <h6>다음 카카오</h6>
+            <h6>🔷 다음 카카오</h6>
             <li>
               <div class="form-check">
                 <input
@@ -175,9 +177,9 @@
     </div>
   </div>
   <!-- 경제적 이해관계 형태 선택 -->
-  <div class="col-6 relation">
-    <div>
-      <h5 class="pt-2">2. 경제적 이해관계 선택</h5>
+  <div class="col-12 col-md-6 relation">
+    <div class="pt-2">
+      <h5 class="ps-2">2. 경제적 이해관계 선택</h5>
     </div>
     <div
       class="p-3 br-t-8 br-b-8 box-shadow"
@@ -186,7 +188,7 @@
       <!--협찬-->
       <div>
         <ul>
-          <h6>협찬</h6>
+          <h6>🔷 협찬</h6>
           <li>
             <div class="form-check">
               <input
@@ -205,7 +207,7 @@
       <!--할인혜택-->
       <div>
         <ul>
-          <h6>할인 혜택</h6>
+          <h6>🔷 할인 혜택</h6>
           <li>
             <div class="form-check">
               <input
@@ -235,7 +237,7 @@
       <!--적립금-->
       <div>
         <ul>
-          <h6>적립금</h6>
+          <h6>🔷 적립금</h6>
           <li>
             <div class="form-check">
               <input
@@ -263,7 +265,7 @@
       <!--제휴마케팅-->
       <div>
         <ul>
-          <h6>제휴마케팅</h6>
+          <h6>🔷 제휴마케팅</h6>
           <li>
             <div class="form-check">
               <input
@@ -282,7 +284,7 @@
       <!--금전적 지원-->
       <div>
         <ul>
-          <h6>금전적 지원</h6>
+          <h6>🔷 금전적 지원</h6>
           <li>
             <div class="form-check">
               <input
@@ -332,7 +334,7 @@
       <!--모델활동-->
       <div>
         <ul>
-          <h6>모델활동</h6>
+          <h6>🔷 모델활동</h6>
           <li>
             <div class="form-check">
               <input
@@ -351,7 +353,7 @@
       <!--공동구매-->
       <div>
         <ul>
-          <h6>공동구매</h6>
+          <h6>🔷 공동구매</h6>
           <li>
             <div class="form-check">
               <input
@@ -370,7 +372,7 @@
       <!--무료대여-->
       <div>
         <ul>
-          <h6>무료대여</h6>
+          <h6>🔷 무료대여</h6>
           <li>
             <div class="form-check">
               <input
@@ -389,7 +391,7 @@
       <!--기타-->
       <div>
         <ul>
-          <h6>기타</h6>
+          <h6>🔷 기타</h6>
           <li>
             <div class="form-check">
               <input
@@ -405,8 +407,7 @@
       </div>
     </div>
   </div>
-
-  <!-- 예시 그림 보여주는 곳-->
-  <%- include('./div-recommendation.ejs'); %>
 </div>
+<!-- 예시 그림 보여주는 곳-->
+<%- include('./div-recommendation.ejs'); %>
 <script src="/js/st-recommendation.js"></script>
