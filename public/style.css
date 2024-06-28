@@ -78,6 +78,10 @@ h6 {
   border-bottom: solid 1px #e8e8e8;
 }
 
+.font-blue {
+  color: #0823b5;
+}
+
 .box-shadow {
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
 }

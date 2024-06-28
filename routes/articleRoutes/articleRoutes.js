@@ -9,7 +9,7 @@ router.get("", async (req, res) => {
 });
 
 router.get("/001", async (req, res) => {
-  res.render("./articles/at-st-001.ejs");
+  res.render("./articles/at-st-0001.ejs");
 });
 
 module.exports = router;
