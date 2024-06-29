@@ -3,6 +3,7 @@ const errorhandler = require("./middlewares/errorhandler.js");
 const expressLayouts = require("express-ejs-layouts");
 const app = express();
 const cors = require("cors");
+const path = require("path");
 app.use(
   cors({
     origin: "http://localhost:8085",
@@ -16,6 +17,12 @@ app.set("view engine", "ejs");
 app.set("layout", "./layouts/layout");
 
 app.use(express.static("public"));
+
+app.use(
+  express.static(path.join(__dirname, "public"), {
+    maxAge: "14d",
+  })
+);
 
 /* 라우팅 */
 app.get("/", async (req, res) => {
