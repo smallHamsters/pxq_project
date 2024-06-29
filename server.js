@@ -29,8 +29,11 @@ app.get("/", async (req, res) => {
   res.render("index.ejs");
 });
 
-const sponsoredtagRoutes = require("./routes/sponsoredtagRoutes");
+const sponsoredtagRoutes = require("./routes/sponsoredtagRoutes/sponsoredtagRoutes.js");
 app.use("/sponsoredtag", sponsoredtagRoutes);
+
+const stguideRoutes = require("./routes/sponsoredtagRoutes/stguideRoutes.js");
+app.use("/sponsoredtag/guide", stguideRoutes);
 
 const riskykeywordRoutes = require("./routes/riskykeywordRoutes/riskykeywordRoutes.js");
 app.use("/riskykeyword", riskykeywordRoutes);

@@ -5,7 +5,7 @@ const fs = require("fs");
 const path = require("path");
 
 const FILE_NAME = "st-keywordDATA.csv";
-const csvPath = path.join(__dirname, "..", "public", "data", FILE_NAME);
+const csvPath = path.join(__dirname, "..", "..", "public", "data", FILE_NAME);
 const CSVfile = fs.readFileSync(csvPath, "utf-8"); //CSVfile 내부 데이터 전부 읽기
 // console.log(CSVfile);
 
@@ -155,19 +155,4 @@ router.get("/recommendation", async (req, res) => {
   });
 });
 
-router.get("/guide", async (req, res) => {
-  res.render("./sponsoredtags/st-guide.ejs");
-});
-
-router.get("/guide/blog", async (req, res) => {
-  res.render("./sponsoredtags/st-guide-blog.ejs");
-});
-
-router.get("/guide/youtube", async (req, res) => {
-  res.render("./sponsoredtags/st-guide-yt.ejs");
-});
-
-router.get("/guide/instagram", async (req, res) => {
-  res.render("./sponsoredtags/st-guide-ig.ejs");
-});
 module.exports = router;
