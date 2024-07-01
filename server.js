@@ -6,7 +6,7 @@ const cors = require("cors");
 const path = require("path");
 app.use(
   cors({
-    origin: "http://localhost:8085",
+    origin: ["http://localhost:8085", "https://prismxq.com"],
     credentials: true,
   })
 );
