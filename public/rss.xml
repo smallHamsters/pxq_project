@@ -1,0 +1,1800 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>PrismXQ - 공정위문구, 위험키워드 백과사전</title>
+    <link>https://prismxq.com</link>
+    <description>공정위문구, 위험키워드 백과사전 툴. PrismXQ는 정직한 리뷰 문화를 지향합니다.</description>
+    <category>공정위문구</category>
+    <auther>PrismXQ 프리즘XQ</auther>
+    <language>ko</language>
+    <item>
+      <title>공정위 문구 협찬 표시</title>
+      <link>https://prismxq.com/sponsoredtag/check?value=%EA%B4%91%EA%B3%A0</link>
+      <description><![CDATA[this is <div class="py-3 px-2 mt-2 mb-5 border"> <h4 class="mt-2 px-1">❝ 협찬 ❞ 검색결과</h4> <div class="alert alert-warning" role="alert"> <div class="p-1">▪ 더 많은 공정위문구는 <a href="/sponsoredtag/dictionary">단어사전</a>에서 확인하세요.</div> <div class="p-1"> ▪ 어디에 어떻게 써야할지 모르겠다면? <br /> <a href="/sponsoredtag/recommendation">👉상황별 추천문구</a>에서 추천해드립니다.</div> </div>
+    <!--result list-->
+    <div class="text-center">
+      <div class="list-h row-flexible pt-3 br-t-8 bg-gray">
+        <div class="f-10">
+          <p><b>no</b></p>
+        </div>
+        <div class="f-30">
+          <p><b>단어</b></p>
+        </div>
+        <div class="f-30">
+          <p><b>사용가부</b></p>
+        </div>
+        <div class="f-30">
+          <p><b>자세히</b></p>
+        </div>
+      </div>
+       
+      <div class="list-d br-t-8 row-flexible box-shadow">
+        <div class="pt-3 f-10"><p>1</p></div>
+        <div class="pt-3 f-30"><p>협찬</p></div>
+        <div class="pt-3 f-30"><p>사용 가능</p></div>
+        <div class="f-30">
+          <button
+            type="button"
+            class="btn btn-outline-primary st-keyword-detail-toggle"
+          >
+            자세히
+          </button>
+        </div>
+      </div>
+      <div class="list-detail br-b-8 hide bg-blue25 box-shadow">
+        <div class="row-flexible thin-underline text-start">
+          <div class="f-30">◼ 키워드</div>
+          <div class="f-70">협찬</div>
+        </div>
+        <div class="row-flexible thin-underline text-start">
+          <div class="f-30">◼ 사용 예시</div>
+          <div class="f-70">
+            #협찬‚ #상품협찬‚ #제품협찬‚ #서비스협찬‚ [협찬]‚ ★협찬★
+            <br />이 글은 협찬을 받아 작성되었습니다. ‚ 이 콘텐츠는 협찬을 받아 제작되었습니다. <br /><a
+              href="/sponsoredtag/recommendation"
+              >👉올바른 사용예시 사진 보러가기</a
+            >
+          </div>
+        </div>
+        <div class="row-flexible thin-underline text-start">
+          <div class="f-30">◼ 사용 제한</div>
+          <div class="f-70">모든 경우에 사용 가능한 표현입니다.</div>
+        </div>
+        <div class="row-flexible thin-underline text-start">
+          <div class="f-30">◼ 제한 사유</div>
+          <div class="f-70">
+            -
+          </div>
+        </div>
+        <div class="row-flexible thin-underline text-start">
+          <div class="f-30">◼ 해결 방법</div>
+          <div class="f-70">-</div>
+        </div>
+        <div class="row-flexible thin-underline text-start">
+          <div class="f-30">◼ 주의사항</div>
+          <div class="f-70">표시를 하더라도 글씨가 작거나 흐려서 쉽게 인식할 수 없는 경우 또는 콘텐츠 중간에만 표시한 경우‚ &#39;더보기&#39;를 눌러야만 보이는 경우 등은 올바르게 표시되었다고 볼 수 없습니다.</div>
+        </div>
+        <div class="row-flexible text-start">
+          <div class="f-30">◼ 관련이슈</div>
+          <div class="f-70">-</div>
+        </div>
+      </div>
+      
+      <div class="list-d br-t-8 row-flexible box-shadow">
+        <div class="pt-3 f-10"><p>2</p></div>
+        <div class="pt-3 f-30"><p>제작비 협찬</p></div>
+        <div class="pt-3 f-30"><p>조건부 가능</p></div>
+        <div class="f-30">
+          <button
+            type="button"
+            class="btn btn-outline-primary st-keyword-detail-toggle"
+          >
+            자세히
+          </button>
+        </div>
+      </div>
+      <div class="list-detail br-b-8 hide bg-blue25 box-shadow">
+        <div class="row-flexible thin-underline text-start">
+          <div class="f-30">◼ 키워드</div>
+          <div class="f-70">제작비 협찬</div>
+        </div>
+        <div class="row-flexible thin-underline text-start">
+          <div class="f-30">◼ 사용 예시</div>
+          <div class="f-70">
+            제작비협찬
+            <br />이 글은 제작비를 협찬받아 작성되었습니다. ‚ 이 콘텐츠는 제작비를 협찬받아 제작되었습니다. <br /><a
+              href="/sponsoredtag/recommendation"
+              >👉올바른 사용예시 사진 보러가기</a
+            >
+          </div>
+        </div>
+        <div class="row-flexible thin-underline text-start">
+          <div class="f-30">◼ 사용 제한</div>
+          <div class="f-70">광고비‚ 수수료 등 금전 형태를 지급한 경우에 사용할 수 있습니다.</div>
+        </div>
+        <div class="row-flexible thin-underline text-start">
+          <div class="f-30">◼ 제한 사유</div>
+          <div class="f-70">
+            소비자가 광고주와 추천보증인 사이의 경제적 이해관계를 사실 그대로 알 수 있도록 표시하기 위함입니다.
+          </div>
+        </div>
+        <div class="row-flexible thin-underline text-start">
+          <div class="f-30">◼ 해결 방법</div>
+          <div class="f-70">-</div>
+        </div>
+        <div class="row-flexible thin-underline text-start">
+          <div class="f-30">◼ 주의사항</div>
+          <div class="f-70">금전 형태 지급이 아닌 다른 형태(e.g. 무료대여‚ 할인혜택)로 지원을 받은 경우 사용할 수 없습니다.</div>
+        </div>
+        <div class="row-flexible text-start">
+          <div class="f-30">◼ 관련이슈</div>
+          <div class="f-70">-</div>
+        </div>
+      </div>
+       
+    </div>
+  </div>
+</div>]]></description>
+<category>공정위문구</category>
+<auther>PrismXQ 프리즘XQ</auther>
+<guid>https://prismxq.com/sponsoredtag/check?value=%EA%B4%91%EA%B3%A0</guid>
+      <pubDate>Sat, 29 Jun 2024 23:42:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>공정위 문구 광고 표시</title>
+      <link>https://prismxq.com/sponsoredtag/check?value=%EA%B4%91%EA%B3%A0</link>
+      <description><![CDATA[this is   <div class="py-3 px-2 mt-2 mb-5 border">
+    <h4 class="mt-2 px-1">❝ 광고 ❞ 검색결과</h4>
+<div class="alert alert-warning" role="alert">
+<div class="p-1">
+        ▪ 더 많은 공정위문구는
+        <a href="/sponsoredtag/dictionary">단어사전</a>에서 확인하세요.
+      </div>
+      <div class="p-1">
+        ▪ 어디에 어떻게 써야할지 모르겠다면? <br />
+        <a href="/sponsoredtag/recommendation">👉상황별 추천문구</a>에서
+        추천해드립니다.
+      </div>
+    </div>
+    <!--result list-->
+    <div class="text-center">
+      <div class="list-h row-flexible pt-3 br-t-8 bg-gray">
+        <div class="f-10">
+          <p><b>no</b></p>
+        </div>
+        <div class="f-30">
+          <p><b>단어</b></p>
+        </div>
+        <div class="f-30">
+          <p><b>사용가부</b></p>
+        </div>
+        <div class="f-30">
+          <p><b>자세히</b></p>
+        </div>
+      </div>
+       
+      <div class="list-d br-t-8 row-flexible box-shadow">
+        <div class="pt-3 f-10"><p>1</p></div>
+        <div class="pt-3 f-30"><p>광고</p></div>
+        <div class="pt-3 f-30"><p>사용 가능</p></div>
+        <div class="f-30">
+          <button
+            type="button"
+            class="btn btn-outline-primary st-keyword-detail-toggle"
+          >
+            자세히
+          </button>
+        </div>
+      </div>
+      <div class="list-detail br-b-8 hide bg-blue25 box-shadow">
+        <div class="row-flexible thin-underline text-start">
+          <div class="f-30">◼ 키워드</div>
+          <div class="f-70">광고</div>
+        </div>
+        <div class="row-flexible thin-underline text-start">
+          <div class="f-30">◼ 사용 예시</div>
+          <div class="f-70">
+            #광고‚ #광고포함‚ #제품광고‚ [광고]‚ ★광고★
+            <br />이 글은 광고입니다. ‚ 이 컨텐츠는 광고입니다. <br /><a
+              href="/sponsoredtag/recommendation"
+              >👉올바른 사용예시 사진 보러가기</a
+            >
+          </div>
+        </div>
+        <div class="row-flexible thin-underline text-start">
+          <div class="f-30">◼ 사용 제한</div>
+          <div class="f-70">모든 경우에 사용 가능한 표현입니다.</div>
+        </div>
+        <div class="row-flexible thin-underline text-start">
+          <div class="f-30">◼ 제한 사유</div>
+          <div class="f-70">
+            -
+          </div>
+        </div>
+        <div class="row-flexible thin-underline text-start">
+          <div class="f-30">◼ 해결 방법</div>
+          <div class="f-70">-</div>
+        </div>
+        <div class="row-flexible thin-underline text-start">
+          <div class="f-30">◼ 주의사항</div>
+          <div class="f-70">표시를 하더라도 글씨가 작거나 흐려서 쉽게 인식할 수 없는 경우이거나 콘텐츠 중간에만 표시한 경우‚ &#39;더보기&#39;를 눌러야만 보이는 경우 등은 올바르게 표시되었다고 볼 수 없습니다.</div>
+        </div>
+        <div class="row-flexible text-start">
+          <div class="f-30">◼ 관련이슈</div>
+          <div class="f-70">-</div>
+        </div>
+      </div>
+      
+      <div class="list-d br-t-8 row-flexible box-shadow">
+        <div class="pt-3 f-10"><p>2</p></div>
+        <div class="pt-3 f-30"><p>상업광고</p></div>
+        <div class="pt-3 f-30"><p>사용 가능</p></div>
+        <div class="f-30">
+          <button
+            type="button"
+            class="btn btn-outline-primary st-keyword-detail-toggle"
+          >
+            자세히
+          </button>
+        </div>
+      </div>
+      <div class="list-detail br-b-8 hide bg-blue25 box-shadow">
+        <div class="row-flexible thin-underline text-start">
+          <div class="f-30">◼ 키워드</div>
+          <div class="f-70">상업광고</div>
+        </div>
+        <div class="row-flexible thin-underline text-start">
+          <div class="f-30">◼ 사용 예시</div>
+          <div class="f-70">
+            #상업광고‚ [상업광고]‚ ★상업광고★
+            <br />이 글은 상업광고입니다. ‚ 이 컨텐츠는 상업광고입니다. <br /><a
+              href="/sponsoredtag/recommendation"
+              >👉올바른 사용예시 사진 보러가기</a
+            >
+          </div>
+        </div>
+        <div class="row-flexible thin-underline text-start">
+          <div class="f-30">◼ 사용 제한</div>
+          <div class="f-70">모든 경우에 사용 가능한 표현입니다.</div>
+        </div>
+        <div class="row-flexible thin-underline text-start">
+          <div class="f-30">◼ 제한 사유</div>
+          <div class="f-70">
+            -
+          </div>
+        </div>
+        <div class="row-flexible thin-underline text-start">
+          <div class="f-30">◼ 해결 방법</div>
+          <div class="f-70">-</div>
+        </div>
+        <div class="row-flexible thin-underline text-start">
+          <div class="f-30">◼ 주의사항</div>
+          <div class="f-70">표시를 하더라도 글씨가 작거나 흐려서 쉽게 인식할 수 없는 경우이거나 콘텐츠 중간에만 표시한 경우‚ &#39;더보기&#39;를 눌러야만 보이는 경우 등은 올바르게 표시되었다고 볼 수 없습니다.</div>
+        </div>
+        <div class="row-flexible text-start">
+          <div class="f-30">◼ 관련이슈</div>
+          <div class="f-70">-</div>
+        </div>
+      </div>
+      
+      <div class="list-d br-t-8 row-flexible box-shadow">
+        <div class="pt-3 f-10"><p>3</p></div>
+        <div class="pt-3 f-30"><p>유료광고</p></div>
+        <div class="pt-3 f-30"><p>사용 가능</p></div>
+        <div class="f-30">
+          <button
+            type="button"
+            class="btn btn-outline-primary st-keyword-detail-toggle"
+          >
+            자세히
+          </button>
+        </div>
+      </div>
+      <div class="list-detail br-b-8 hide bg-blue25 box-shadow">
+        <div class="row-flexible thin-underline text-start">
+          <div class="f-30">◼ 키워드</div>
+          <div class="f-70">유료광고</div>
+        </div>
+        <div class="row-flexible thin-underline text-start">
+          <div class="f-30">◼ 사용 예시</div>
+          <div class="f-70">
+            #유료광고‚ #유료광고포함‚ [유료광고]‚ [유료광고포함]‚ ★유료광고★
+            <br />이 글은 유료광고글입니다. ‚ 이 컨텐츠는 유료광고입니다. <br /><a
+              href="/sponsoredtag/recommendation"
+              >👉올바른 사용예시 사진 보러가기</a
+            >
+          </div>
+        </div>
+        <div class="row-flexible thin-underline text-start">
+          <div class="f-30">◼ 사용 제한</div>
+          <div class="f-70">모든 경우에 사용 가능한 표현입니다.</div>
+        </div>
+        <div class="row-flexible thin-underline text-start">
+          <div class="f-30">◼ 제한 사유</div>
+          <div class="f-70">
+            -
+          </div>
+        </div>
+        <div class="row-flexible thin-underline text-start">
+          <div class="f-30">◼ 해결 방법</div>
+          <div class="f-70">-</div>
+        </div>
+        <div class="row-flexible thin-underline text-start">
+          <div class="f-30">◼ 주의사항</div>
+          <div class="f-70">표시를 하더라도 글씨가 작거나 흐려서 쉽게 인식할 수 없는 경우이거나 콘텐츠 중간에만 표시한 경우‚ &#39;더보기&#39;를 눌러야만 보이는 경우 등은 올바르게 표시되었다고 볼 수 없습니다.</div>
+        </div>
+        <div class="row-flexible text-start">
+          <div class="f-30">◼ 관련이슈</div>
+          <div class="f-70">-</div>
+        </div>
+      </div>
+      
+      <div class="list-d br-t-8 row-flexible box-shadow">
+        <div class="pt-3 f-10"><p>4</p></div>
+        <div class="pt-3 f-30"><p>광고료</p></div>
+        <div class="pt-3 f-30"><p>조건부 가능</p></div>
+        <div class="f-30">
+          <button
+            type="button"
+            class="btn btn-outline-primary st-keyword-detail-toggle"
+          >
+            자세히
+          </button>
+        </div>
+      </div>
+      <div class="list-detail br-b-8 hide bg-blue25 box-shadow">
+        <div class="row-flexible thin-underline text-start">
+          <div class="f-30">◼ 키워드</div>
+          <div class="f-70">광고료</div>
+        </div>
+        <div class="row-flexible thin-underline text-start">
+          <div class="f-30">◼ 사용 예시</div>
+          <div class="f-70">
+            광고료지급
+            <br />이 글은 광고료를 지급받아 작성되었습니다. ‚ 이 콘텐츠는 광고료를 지급받아 제작되었습니다. <br /><a
+              href="/sponsoredtag/recommendation"
+              >👉올바른 사용예시 사진 보러가기</a
+            >
+          </div>
+        </div>
+        <div class="row-flexible thin-underline text-start">
+          <div class="f-30">◼ 사용 제한</div>
+          <div class="f-70">광고비‚ 수수료 등 금전 형태를 지급한 경우에 사용할 수 있습니다.</div>
+        </div>
+        <div class="row-flexible thin-underline text-start">
+          <div class="f-30">◼ 제한 사유</div>
+          <div class="f-70">
+            소비자가 광고주와 추천보증인 사이의 경제적 이해관계를 사실 그대로 알 수 있도록 표시하기 위함입니다.
+          </div>
+        </div>
+        <div class="row-flexible thin-underline text-start">
+          <div class="f-30">◼ 해결 방법</div>
+          <div class="f-70">-</div>
+        </div>
+        <div class="row-flexible thin-underline text-start">
+          <div class="f-30">◼ 주의사항</div>
+          <div class="f-70">금전 형태 지급이 아닌 다른 형태(e.g. 무료대여‚ 할인혜택)로 지원을 받은 경우 사용할 수 없습니다.</div>
+        </div>
+        <div class="row-flexible text-start">
+          <div class="f-30">◼ 관련이슈</div>
+          <div class="f-70">-</div>
+        </div>
+      </div>
+      
+      <div class="list-d br-t-8 row-flexible box-shadow">
+        <div class="pt-3 f-10"><p>5</p></div>
+        <div class="pt-3 f-30"><p>광고비 지급</p></div>
+        <div class="pt-3 f-30"><p>조건부 가능</p></div>
+        <div class="f-30">
+          <button
+            type="button"
+            class="btn btn-outline-primary st-keyword-detail-toggle"
+          >
+            자세히
+          </button>
+        </div>
+      </div>
+      <div class="list-detail br-b-8 hide bg-blue25 box-shadow">
+        <div class="row-flexible thin-underline text-start">
+          <div class="f-30">◼ 키워드</div>
+          <div class="f-70">광고비 지급</div>
+        </div>
+        <div class="row-flexible thin-underline text-start">
+          <div class="f-30">◼ 사용 예시</div>
+          <div class="f-70">
+            광고비지급
+            <br />이 글은 광고비를 지급받아 작성되었습니다. ‚ 이 콘텐츠는 광고료를 지급받아 제작되었습니다. <br /><a
+              href="/sponsoredtag/recommendation"
+              >👉올바른 사용예시 사진 보러가기</a
+            >
+          </div>
+        </div>
+        <div class="row-flexible thin-underline text-start">
+          <div class="f-30">◼ 사용 제한</div>
+          <div class="f-70">광고비‚ 수수료 등 금전 형태를 지급한 경우에 사용할 수 있습니다.</div>
+        </div>
+        <div class="row-flexible thin-underline text-start">
+          <div class="f-30">◼ 제한 사유</div>
+          <div class="f-70">
+            소비자가 광고주와 추천보증인 사이의 경제적 이해관계를 사실 그대로 알 수 있도록 표시하기 위함입니다.
+          </div>
+        </div>
+        <div class="row-flexible thin-underline text-start">
+          <div class="f-30">◼ 해결 방법</div>
+          <div class="f-70">-</div>
+        </div>
+        <div class="row-flexible thin-underline text-start">
+          <div class="f-30">◼ 주의사항</div>
+          <div class="f-70">금전 형태 지급이 아닌 다른 형태(e.g. 무료대여‚ 할인혜택)로 지원을 받은 경우 사용할 수 없습니다.</div>
+        </div>
+        <div class="row-flexible text-start">
+          <div class="f-30">◼ 관련이슈</div>
+          <div class="f-70">-</div>
+        </div>
+      </div>
+       
+    </div>
+  </div>
+</div>]]></description>
+<category>공정위문구</category>
+<auther>PrismXQ 프리즘XQ</auther>
+<guid></guid>
+      <pubDate>Sat, 29 Jun 2024 23:45:00 +0000</pubDate>
+    </item>
+        <item>
+      <title>공정위 문구 수수료 표시</title>
+      <link>https://prismxq.com/sponsoredtag/check?value=%EC%88%98%EC%88%98%EB%A3%8C</link>
+      <description><![CDATA[this is   <div class="py-3 px-2 mt-2 mb-5 border">
+    <h4 class="mt-2 px-1">❝ 수수료 ❞ 검색결과</h4>
+    <div class="alert alert-warning" role="alert">
+      <div class="p-1">
+        ▪ 더 많은 공정위문구는
+        <a href="/sponsoredtag/dictionary">단어사전</a>에서 확인하세요.
+      </div>
+      <div class="p-1">
+        ▪ 어디에 어떻게 써야할지 모르겠다면? <br />
+        <a href="/sponsoredtag/recommendation">👉상황별 추천문구</a>에서
+        추천해드립니다.
+      </div>
+    </div>
+    <!--result list-->
+    <div class="text-center">
+      <div class="list-h row-flexible pt-3 br-t-8 bg-gray">
+        <div class="f-10">
+          <p><b>no</b></p>
+        </div>
+        <div class="f-30">
+          <p><b>단어</b></p>
+        </div>
+        <div class="f-30">
+          <p><b>사용가부</b></p>
+        </div>
+        <div class="f-30">
+          <p><b>자세히</b></p>
+        </div>
+      </div>
+       
+      <div class="list-d br-t-8 row-flexible box-shadow">
+        <div class="pt-3 f-10"><p>1</p></div>
+        <div class="pt-3 f-30"><p>수수료</p></div>
+        <div class="pt-3 f-30"><p>조건부 가능</p></div>
+        <div class="f-30">
+          <button
+            type="button"
+            class="btn btn-outline-primary st-keyword-detail-toggle"
+          >
+            자세히
+          </button>
+        </div>
+      </div>
+      <div class="list-detail br-b-8 hide bg-blue25 box-shadow">
+        <div class="row-flexible thin-underline text-start">
+          <div class="f-30">◼ 키워드</div>
+          <div class="f-70">수수료</div>
+        </div>
+        <div class="row-flexible thin-underline text-start">
+          <div class="f-30">◼ 사용 예시</div>
+          <div class="f-70">
+            수수료지급
+            <br />이 글은 A사로부터 소정의 수수료를 지급받아 작성되었습니다. ‚ 이 콘텐츠는 A사로부터 수수료를 지급받아 제작되었습니다. <br /><a
+              href="/sponsoredtag/recommendation"
+              >👉올바른 사용예시 사진 보러가기</a
+            >
+          </div>
+        </div>
+        <div class="row-flexible thin-underline text-start">
+          <div class="f-30">◼ 사용 제한</div>
+          <div class="f-70">광고비‚ 수수료 등 금전 형태를 지급한 경우에 사용할 수 있습니다.</div>
+        </div>
+        <div class="row-flexible thin-underline text-start">
+          <div class="f-30">◼ 제한 사유</div>
+          <div class="f-70">
+            소비자가 광고주와 추천보증인 사이의 경제적 이해관계를 사실 그대로 알 수 있도록 표시하기 위함입니다.
+          </div>
+        </div>
+        <div class="row-flexible thin-underline text-start">
+          <div class="f-30">◼ 해결 방법</div>
+          <div class="f-70">-</div>
+        </div>
+        <div class="row-flexible thin-underline text-start">
+          <div class="f-30">◼ 주의사항</div>
+          <div class="f-70">금전 형태 지급이 아닌 다른 형태(e.g. 상품협찬‚ 무료대여‚ 할인혜택)로 지원을 받은 경우 사용할 수 없습니다.</div>
+        </div>
+        <div class="row-flexible text-start">
+          <div class="f-30">◼ 관련이슈</div>
+          <div class="f-70">-</div>
+        </div>
+      </div>
+      
+      <div class="list-d br-t-8 row-flexible box-shadow">
+        <div class="pt-3 f-10"><p>2</p></div>
+        <div class="pt-3 f-30"><p>소정의 수수료 지급</p></div>
+        <div class="pt-3 f-30"><p>조건부 가능</p></div>
+        <div class="f-30">
+          <button
+            type="button"
+            class="btn btn-outline-primary st-keyword-detail-toggle"
+          >
+            자세히
+          </button>
+        </div>
+      </div>
+      <div class="list-detail br-b-8 hide bg-blue25 box-shadow">
+        <div class="row-flexible thin-underline text-start">
+          <div class="f-30">◼ 키워드</div>
+          <div class="f-70">소정의 수수료 지급</div>
+        </div>
+        <div class="row-flexible thin-underline text-start">
+          <div class="f-30">◼ 사용 예시</div>
+          <div class="f-70">
+            소정의 수수료 지급
+            <br />이 글은 A사로부터 소정의 수수료를 지급받아 작성되었습니다. ‚ 이 콘텐츠는 A사로부터 수수료를 지급받아 제작되었습니다. <br /><a
+              href="/sponsoredtag/recommendation"
+              >👉올바른 사용예시 사진 보러가기</a
+            >
+          </div>
+        </div>
+        <div class="row-flexible thin-underline text-start">
+          <div class="f-30">◼ 사용 제한</div>
+          <div class="f-70">광고비‚ 수수료 등 금전 형태를 지급한 경우에 사용할 수 있습니다.</div>
+        </div>
+        <div class="row-flexible thin-underline text-start">
+          <div class="f-30">◼ 제한 사유</div>
+          <div class="f-70">
+            소비자가 광고주와 추천보증인 사이의 경제적 이해관계를 사실 그대로 알 수 있도록 표시하기 위함입니다.
+          </div>
+        </div>
+        <div class="row-flexible thin-underline text-start">
+          <div class="f-30">◼ 해결 방법</div>
+          <div class="f-70">-</div>
+        </div>
+        <div class="row-flexible thin-underline text-start">
+          <div class="f-30">◼ 주의사항</div>
+          <div class="f-70">금전 형태 지급이 아닌 다른 형태(e.g. 상품협찬‚ 무료대여‚ 할인혜택)로 지원을 받은 경우 사용할 수 없습니다.</div>
+        </div>
+        <div class="row-flexible text-start">
+          <div class="f-30">◼ 관련이슈</div>
+          <div class="f-70">-</div>
+        </div>
+      </div>
+       
+    </div>
+  </div>
+</div>]]></description>
+<category>공정위문구</category>
+<auther>PrismXQ 프리즘XQ</auther>
+<guid>https://prismxq.com/sponsoredtag/check?value=%EC%88%98%EC%88%98%EB%A3%8C</guid>
+      <pubDate>Sat, 29 Jun 2024 23:48:00 +0000</pubDate>
+    </item>
+        <item>
+      <title>공정위 문구 제작비 표시</title>
+      <link>https://prismxq.com/sponsoredtag/check?value=%EC%A0%9C%EC%9E%91%EB%B9%84</link>
+      <description><![CDATA[this is     <div class="alert alert-warning" role="alert">
+      <div class="p-1">
+        ▪ 더 많은 공정위문구는
+        <a href="/sponsoredtag/dictionary">단어사전</a>에서 확인하세요.
+      </div>
+      <div class="p-1">
+        ▪ 어디에 어떻게 써야할지 모르겠다면? <br />
+        <a href="/sponsoredtag/recommendation">👉상황별 추천문구</a>에서
+        추천해드립니다.
+      </div>
+    </div>
+    <!--result list-->
+    <div class="text-center">
+      <div class="list-h row-flexible pt-3 br-t-8 bg-gray">
+        <div class="f-10">
+          <p><b>no</b></p>
+        </div>
+        <div class="f-30">
+          <p><b>단어</b></p>
+        </div>
+        <div class="f-30">
+          <p><b>사용가부</b></p>
+        </div>
+        <div class="f-30">
+          <p><b>자세히</b></p>
+        </div>
+      </div>
+       
+      <div class="list-d br-t-8 row-flexible box-shadow">
+        <div class="pt-3 f-10"><p>1</p></div>
+        <div class="pt-3 f-30"><p>제작비</p></div>
+        <div class="pt-3 f-30"><p>조건부 가능</p></div>
+        <div class="f-30">
+          <button
+            type="button"
+            class="btn btn-outline-primary st-keyword-detail-toggle"
+          >
+            자세히
+          </button>
+        </div>
+      </div>
+      <div class="list-detail br-b-8 hide bg-blue25 box-shadow">
+        <div class="row-flexible thin-underline text-start">
+          <div class="f-30">◼ 키워드</div>
+          <div class="f-70">제작비</div>
+        </div>
+        <div class="row-flexible thin-underline text-start">
+          <div class="f-30">◼ 사용 예시</div>
+          <div class="f-70">
+            제작비지원‚ 제작비협찬
+            <br />이 글은 제작비를 지원받아 작성되었습니다. ‚ 이 콘텐츠는 제작비를 협찬받아 제작되었습니다. <br /><a
+              href="/sponsoredtag/recommendation"
+              >👉올바른 사용예시 사진 보러가기</a
+            >
+          </div>
+        </div>
+        <div class="row-flexible thin-underline text-start">
+          <div class="f-30">◼ 사용 제한</div>
+          <div class="f-70">광고비‚ 수수료 등 금전 형태를 지급한 경우에 사용할 수 있습니다.</div>
+        </div>
+        <div class="row-flexible thin-underline text-start">
+          <div class="f-30">◼ 제한 사유</div>
+          <div class="f-70">
+            소비자가 광고주와 추천보증인 사이의 경제적 이해관계를 사실 그대로 알 수 있도록 표시하기 위함입니다.
+          </div>
+        </div>
+        <div class="row-flexible thin-underline text-start">
+          <div class="f-30">◼ 해결 방법</div>
+          <div class="f-70">-</div>
+        </div>
+        <div class="row-flexible thin-underline text-start">
+          <div class="f-30">◼ 주의사항</div>
+          <div class="f-70">금전 형태 지급이 아닌 다른 형태(e.g. 무료대여‚ 할인혜택)로 지원을 받은 경우 사용할 수 없습니다.</div>
+        </div>
+        <div class="row-flexible text-start">
+          <div class="f-30">◼ 관련이슈</div>
+          <div class="f-70">-</div>
+        </div>
+      </div>
+      
+      <div class="list-d br-t-8 row-flexible box-shadow">
+        <div class="pt-3 f-10"><p>2</p></div>
+        <div class="pt-3 f-30"><p>제작비 지원</p></div>
+        <div class="pt-3 f-30"><p>조건부 가능</p></div>
+        <div class="f-30">
+          <button
+            type="button"
+            class="btn btn-outline-primary st-keyword-detail-toggle"
+          >
+            자세히
+          </button>
+        </div>
+      </div>
+      <div class="list-detail br-b-8 hide bg-blue25 box-shadow">
+        <div class="row-flexible thin-underline text-start">
+          <div class="f-30">◼ 키워드</div>
+          <div class="f-70">제작비 지원</div>
+        </div>
+        <div class="row-flexible thin-underline text-start">
+          <div class="f-30">◼ 사용 예시</div>
+          <div class="f-70">
+            제작비지원
+            <br />이 글은 제작비를 지원받아 작성되었습니다. ‚ 이 콘텐츠는 제작비를 지원받아 제작되었습니다. <br /><a
+              href="/sponsoredtag/recommendation"
+              >👉올바른 사용예시 사진 보러가기</a
+            >
+          </div>
+        </div>
+        <div class="row-flexible thin-underline text-start">
+          <div class="f-30">◼ 사용 제한</div>
+          <div class="f-70">광고비‚ 수수료 등 금전 형태를 지급한 경우에 사용할 수 있습니다.</div>
+        </div>
+        <div class="row-flexible thin-underline text-start">
+          <div class="f-30">◼ 제한 사유</div>
+          <div class="f-70">
+            소비자가 광고주와 추천보증인 사이의 경제적 이해관계를 사실 그대로 알 수 있도록 표시하기 위함입니다.
+          </div>
+        </div>
+        <div class="row-flexible thin-underline text-start">
+          <div class="f-30">◼ 해결 방법</div>
+          <div class="f-70">-</div>
+        </div>
+        <div class="row-flexible thin-underline text-start">
+          <div class="f-30">◼ 주의사항</div>
+          <div class="f-70">금전 형태 지급이 아닌 다른 형태(e.g. 무료대여‚ 할인혜택)로 지원을 받은 경우 사용할 수 없습니다.</div>
+        </div>
+        <div class="row-flexible text-start">
+          <div class="f-30">◼ 관련이슈</div>
+          <div class="f-70">-</div>
+        </div>
+      </div>
+      
+      <div class="list-d br-t-8 row-flexible box-shadow">
+        <div class="pt-3 f-10"><p>3</p></div>
+        <div class="pt-3 f-30"><p>제작비 협찬</p></div>
+        <div class="pt-3 f-30"><p>조건부 가능</p></div>
+        <div class="f-30">
+          <button
+            type="button"
+            class="btn btn-outline-primary st-keyword-detail-toggle"
+          >
+            자세히
+          </button>
+        </div>
+      </div>
+      <div class="list-detail br-b-8 hide bg-blue25 box-shadow">
+        <div class="row-flexible thin-underline text-start">
+          <div class="f-30">◼ 키워드</div>
+          <div class="f-70">제작비 협찬</div>
+        </div>
+        <div class="row-flexible thin-underline text-start">
+          <div class="f-30">◼ 사용 예시</div>
+          <div class="f-70">
+            제작비협찬
+            <br />이 글은 제작비를 협찬받아 작성되었습니다. ‚ 이 콘텐츠는 제작비를 협찬받아 제작되었습니다. <br /><a
+              href="/sponsoredtag/recommendation"
+              >👉올바른 사용예시 사진 보러가기</a
+            >
+          </div>
+        </div>
+        <div class="row-flexible thin-underline text-start">
+          <div class="f-30">◼ 사용 제한</div>
+          <div class="f-70">광고비‚ 수수료 등 금전 형태를 지급한 경우에 사용할 수 있습니다.</div>
+        </div>
+        <div class="row-flexible thin-underline text-start">
+          <div class="f-30">◼ 제한 사유</div>
+          <div class="f-70">
+            소비자가 광고주와 추천보증인 사이의 경제적 이해관계를 사실 그대로 알 수 있도록 표시하기 위함입니다.
+          </div>
+        </div>
+        <div class="row-flexible thin-underline text-start">
+          <div class="f-30">◼ 해결 방법</div>
+          <div class="f-70">-</div>
+        </div>
+        <div class="row-flexible thin-underline text-start">
+          <div class="f-30">◼ 주의사항</div>
+          <div class="f-70">금전 형태 지급이 아닌 다른 형태(e.g. 무료대여‚ 할인혜택)로 지원을 받은 경우 사용할 수 없습니다.</div>
+        </div>
+        <div class="row-flexible text-start">
+          <div class="f-30">◼ 관련이슈</div>
+          <div class="f-70">-</div>
+        </div>
+      </div>
+       
+    </div>
+  </div>
+</div>]]></description>
+<category>공정위문구</category>
+<auther>PrismXQ 프리즘XQ</auther>
+<guid>https://prismxq.com/sponsoredtag/check?value=%EC%A0%9C%EC%9E%91%EB%B9%84</guid>
+      <pubDate>Sat, 29 Jun 2024 23:51:00 +0000</pubDate>
+    </item>
+        <item>
+      <title>공정위 문구 무료 표시</title>
+      <link>https://prismxq.com/sponsoredtag/check?value=%EB%AC%B4%EB%A3%8C</link>
+      <description><![CDATA[this is   <div class="py-3 px-2 mt-2 mb-5 border">
+    <h4 class="mt-2 px-1">❝ 무료 ❞ 검색결과</h4>
+    <div class="alert alert-warning" role="alert">
+      <div class="p-1">
+        ▪ 더 많은 공정위문구는
+        <a href="/sponsoredtag/dictionary">단어사전</a>에서 확인하세요.
+      </div>
+      <div class="p-1">
+        ▪ 어디에 어떻게 써야할지 모르겠다면? <br />
+        <a href="/sponsoredtag/recommendation">👉상황별 추천문구</a>에서
+        추천해드립니다.
+      </div>
+    </div>
+    <!--result list-->
+    <div class="text-center">
+      <div class="list-h row-flexible pt-3 br-t-8 bg-gray">
+        <div class="f-10">
+          <p><b>no</b></p>
+        </div>
+        <div class="f-30">
+          <p><b>단어</b></p>
+        </div>
+        <div class="f-30">
+          <p><b>사용가부</b></p>
+        </div>
+        <div class="f-30">
+          <p><b>자세히</b></p>
+        </div>
+      </div>
+       
+      <div class="list-d br-t-8 row-flexible box-shadow">
+        <div class="pt-3 f-10"><p>1</p></div>
+        <div class="pt-3 f-30"><p>무료 제공</p></div>
+        <div class="pt-3 f-30"><p>조건부 가능</p></div>
+        <div class="f-30">
+          <button
+            type="button"
+            class="btn btn-outline-primary st-keyword-detail-toggle"
+          >
+            자세히
+          </button>
+        </div>
+      </div>
+      <div class="list-detail br-b-8 hide bg-blue25 box-shadow">
+        <div class="row-flexible thin-underline text-start">
+          <div class="f-30">◼ 키워드</div>
+          <div class="f-70">무료 제공</div>
+        </div>
+        <div class="row-flexible thin-underline text-start">
+          <div class="f-30">◼ 사용 예시</div>
+          <div class="f-70">
+            #무료제공‚ [무료제공]‚ 무료제공‚ ★무료제공★
+            <br />이 글은 상품 또는 서비스를 무료로 제공받아 작성되었습니다. ‚ 이 콘텐츠는 상품 또는 서비스를 무료로 제공받아 제작되었습니다. <br /><a
+              href="/sponsoredtag/recommendation"
+              >👉올바른 사용예시 사진 보러가기</a
+            >
+          </div>
+        </div>
+        <div class="row-flexible thin-underline text-start">
+          <div class="f-30">◼ 사용 제한</div>
+          <div class="f-70">상품‚ 서비스 등을 무료로 제공한 경우에만 사용할 수 있습니다.</div>
+        </div>
+        <div class="row-flexible thin-underline text-start">
+          <div class="f-30">◼ 제한 사유</div>
+          <div class="f-70">
+            소비자가 광고주와 추천보증인 사이의 경제적 이해관계를 사실 그대로 알 수 있도록 표시하기 위함입니다.
+          </div>
+        </div>
+        <div class="row-flexible thin-underline text-start">
+          <div class="f-30">◼ 해결 방법</div>
+          <div class="f-70">-</div>
+        </div>
+        <div class="row-flexible thin-underline text-start">
+          <div class="f-30">◼ 주의사항</div>
+          <div class="f-70">작성시 경제적 대가를 실제로 받은 것보다 축소하지 않아야 합니다. (할인혜택을 받은 경우 사용 불가)</div>
+        </div>
+        <div class="row-flexible text-start">
+          <div class="f-30">◼ 관련이슈</div>
+          <div class="f-70">-</div>
+        </div>
+      </div>
+      
+      <div class="list-d br-t-8 row-flexible box-shadow">
+        <div class="pt-3 f-10"><p>2</p></div>
+        <div class="pt-3 f-30"><p>무료 지원</p></div>
+        <div class="pt-3 f-30"><p>조건부 가능</p></div>
+        <div class="f-30">
+          <button
+            type="button"
+            class="btn btn-outline-primary st-keyword-detail-toggle"
+          >
+            자세히
+          </button>
+        </div>
+      </div>
+      <div class="list-detail br-b-8 hide bg-blue25 box-shadow">
+        <div class="row-flexible thin-underline text-start">
+          <div class="f-30">◼ 키워드</div>
+          <div class="f-70">무료 지원</div>
+        </div>
+        <div class="row-flexible thin-underline text-start">
+          <div class="f-30">◼ 사용 예시</div>
+          <div class="f-70">
+            #무료지급‚ [무료지급]‚ 무료지급‚ ★무료지급★
+            <br />이 글은 상품 또는 서비스를 무료로 지급받아 작성되었습니다. ‚ 이 콘텐츠는 상품 또는 서비스를 무료로 지급받아 제작되었습니다. <br /><a
+              href="/sponsoredtag/recommendation"
+              >👉올바른 사용예시 사진 보러가기</a
+            >
+          </div>
+        </div>
+        <div class="row-flexible thin-underline text-start">
+          <div class="f-30">◼ 사용 제한</div>
+          <div class="f-70">상품‚ 서비스 등을 무료로 제공한 경우에만 사용할 수 있습니다.</div>
+        </div>
+        <div class="row-flexible thin-underline text-start">
+          <div class="f-30">◼ 제한 사유</div>
+          <div class="f-70">
+            소비자가 광고주와 추천보증인 사이의 경제적 이해관계를 사실 그대로 알 수 있도록 표시하기 위함입니다.
+          </div>
+        </div>
+        <div class="row-flexible thin-underline text-start">
+          <div class="f-30">◼ 해결 방법</div>
+          <div class="f-70">-</div>
+        </div>
+        <div class="row-flexible thin-underline text-start">
+          <div class="f-30">◼ 주의사항</div>
+          <div class="f-70">작성시 경제적 대가를 실제로 받은 것보다 축소하지 않아야 합니다. (할인혜택을 받은 경우 사용 불가)</div>
+        </div>
+        <div class="row-flexible text-start">
+          <div class="f-30">◼ 관련이슈</div>
+          <div class="f-70">-</div>
+        </div>
+      </div>
+      
+      <div class="list-d br-t-8 row-flexible box-shadow">
+        <div class="pt-3 f-10"><p>3</p></div>
+        <div class="pt-3 f-30"><p>무료 대여</p></div>
+        <div class="pt-3 f-30"><p>조건부 가능</p></div>
+        <div class="f-30">
+          <button
+            type="button"
+            class="btn btn-outline-primary st-keyword-detail-toggle"
+          >
+            자세히
+          </button>
+        </div>
+      </div>
+      <div class="list-detail br-b-8 hide bg-blue25 box-shadow">
+        <div class="row-flexible thin-underline text-start">
+          <div class="f-30">◼ 키워드</div>
+          <div class="f-70">무료 대여</div>
+        </div>
+        <div class="row-flexible thin-underline text-start">
+          <div class="f-30">◼ 사용 예시</div>
+          <div class="f-70">
+            #무료대여‚ [무료대여]‚ 무료대여‚ ★무료대여★
+            <br />이 글은 상품 또는 서비스를 무료로 대여받아 작성되었습니다. ‚ 이 콘텐츠는 상품 또는 서비스를 무료로 대여받아 제작되었습니다. <br /><a
+              href="/sponsoredtag/recommendation"
+              >👉올바른 사용예시 사진 보러가기</a
+            >
+          </div>
+        </div>
+        <div class="row-flexible thin-underline text-start">
+          <div class="f-30">◼ 사용 제한</div>
+          <div class="f-70">상품‚ 서비스 등을 무료로 대여한 경우에만 사용할 수 있습니다.</div>
+        </div>
+        <div class="row-flexible thin-underline text-start">
+          <div class="f-30">◼ 제한 사유</div>
+          <div class="f-70">
+            소비자가 광고주와 추천보증인 사이의 경제적 이해관계를 사실 그대로 알 수 있도록 표시하기 위함입니다.
+          </div>
+        </div>
+        <div class="row-flexible thin-underline text-start">
+          <div class="f-30">◼ 해결 방법</div>
+          <div class="f-70">-</div>
+        </div>
+        <div class="row-flexible thin-underline text-start">
+          <div class="f-30">◼ 주의사항</div>
+          <div class="f-70">작성시 경제적 대가를 실제로 받은 것보다 축소하지 않아야 합니다. (할인혜택을 받은 경우 사용 불가)</div>
+        </div>
+        <div class="row-flexible text-start">
+          <div class="f-30">◼ 관련이슈</div>
+          <div class="f-70">-</div>
+        </div>
+      </div>
+      
+      <div class="list-d br-t-8 row-flexible box-shadow">
+        <div class="pt-3 f-10"><p>4</p></div>
+        <div class="pt-3 f-30"><p>무료 지원</p></div>
+        <div class="pt-3 f-30"><p>조건부 가능</p></div>
+        <div class="f-30">
+          <button
+            type="button"
+            class="btn btn-outline-primary st-keyword-detail-toggle"
+          >
+            자세히
+          </button>
+        </div>
+      </div>
+      <div class="list-detail br-b-8 hide bg-blue25 box-shadow">
+        <div class="row-flexible thin-underline text-start">
+          <div class="f-30">◼ 키워드</div>
+          <div class="f-70">무료 지원</div>
+        </div>
+        <div class="row-flexible thin-underline text-start">
+          <div class="f-30">◼ 사용 예시</div>
+          <div class="f-70">
+            #무료지원‚ [무료지원]‚ 무료지원‚ ★무료지원★
+            <br />이 글은 상품 또는 서비스를 무료로 지원받아 작성되었습니다. ‚ 이 콘텐츠는 상품 또는 서비스를 무료로 지원받아 제작되었습니다. <br /><a
+              href="/sponsoredtag/recommendation"
+              >👉올바른 사용예시 사진 보러가기</a
+            >
+          </div>
+        </div>
+        <div class="row-flexible thin-underline text-start">
+          <div class="f-30">◼ 사용 제한</div>
+          <div class="f-70">상품‚ 서비스 등을 무료로 지원한 경우에만 사용할 수 있습니다.</div>
+        </div>
+        <div class="row-flexible thin-underline text-start">
+          <div class="f-30">◼ 제한 사유</div>
+          <div class="f-70">
+            소비자가 광고주와 추천보증인 사이의 경제적 이해관계를 사실 그대로 알 수 있도록 표시하기 위함입니다.
+          </div>
+        </div>
+        <div class="row-flexible thin-underline text-start">
+          <div class="f-30">◼ 해결 방법</div>
+          <div class="f-70">-</div>
+        </div>
+        <div class="row-flexible thin-underline text-start">
+          <div class="f-30">◼ 주의사항</div>
+          <div class="f-70">작성시 경제적 대가를 실제로 받은 것보다 축소하지 않아야 합니다. (할인혜택을 받은 경우 사용 불가)</div>
+        </div>
+        <div class="row-flexible text-start">
+          <div class="f-30">◼ 관련이슈</div>
+          <div class="f-70">-</div>
+        </div>
+      </div>
+       
+    </div>
+  </div>
+</div>]]></description>
+<category>공정위문구</category>
+<auther>PrismXQ 프리즘XQ</auther>
+<guid>https://prismxq.com/sponsoredtag/check?value=%EB%AC%B4%EB%A3%8C</guid>
+      <pubDate>Sun, 30 Jul 2024 09:11:00 +0000</pubDate>
+    </item>
+        <item>
+      <title>공정위 문구 할인 표시</title>
+      <link>https://prismxq.com/sponsoredtag/check?value=%ED%95%A0%EC%9D%B8</link>
+      <description><![CDATA[this is   <div class="py-3 px-2 mt-2 mb-5 border">
+    <h4 class="mt-2 px-1">❝ 할인 ❞ 검색결과</h4>
+    <div class="alert alert-warning" role="alert">
+      <div class="p-1">
+        ▪ 더 많은 공정위문구는
+        <a href="/sponsoredtag/dictionary">단어사전</a>에서 확인하세요.
+      </div>
+      <div class="p-1">
+        ▪ 어디에 어떻게 써야할지 모르겠다면? <br />
+        <a href="/sponsoredtag/recommendation">👉상황별 추천문구</a>에서
+        추천해드립니다.
+      </div>
+    </div>
+    <!--result list-->
+    <div class="text-center">
+      <div class="list-h row-flexible pt-3 br-t-8 bg-gray">
+        <div class="f-10">
+          <p><b>no</b></p>
+        </div>
+        <div class="f-30">
+          <p><b>단어</b></p>
+        </div>
+        <div class="f-30">
+          <p><b>사용가부</b></p>
+        </div>
+        <div class="f-30">
+          <p><b>자세히</b></p>
+        </div>
+      </div>
+       
+      <div class="list-d br-t-8 row-flexible box-shadow">
+        <div class="pt-3 f-10"><p>1</p></div>
+        <div class="pt-3 f-30"><p>할인 지원</p></div>
+        <div class="pt-3 f-30"><p>조건부 가능</p></div>
+        <div class="f-30">
+          <button
+            type="button"
+            class="btn btn-outline-primary st-keyword-detail-toggle"
+          >
+            자세히
+          </button>
+        </div>
+      </div>
+      <div class="list-detail br-b-8 hide bg-blue25 box-shadow">
+        <div class="row-flexible thin-underline text-start">
+          <div class="f-30">◼ 키워드</div>
+          <div class="f-70">할인 지원</div>
+        </div>
+        <div class="row-flexible thin-underline text-start">
+          <div class="f-30">◼ 사용 예시</div>
+          <div class="f-70">
+            할인지원
+            <br />이 글은 상품 또는 서비스를 할인받아 작성되었습니다. ‚ 이 콘텐츠는 상품 또는 서비스에 대하여 할인을 지원받아 제작되었습니다. <br /><a
+              href="/sponsoredtag/recommendation"
+              >👉올바른 사용예시 사진 보러가기</a
+            >
+          </div>
+        </div>
+        <div class="row-flexible thin-underline text-start">
+          <div class="f-30">◼ 사용 제한</div>
+          <div class="f-70">상품‚ 서비스 등에 할인 혜택을 제공한 경우 사용할 수 있습니다.</div>
+        </div>
+        <div class="row-flexible thin-underline text-start">
+          <div class="f-30">◼ 제한 사유</div>
+          <div class="f-70">
+            소비자가 광고주와 추천보증인 사이의 경제적 이해관계를 사실 그대로 알 수 있도록 표시하기 위함입니다.
+          </div>
+        </div>
+        <div class="row-flexible thin-underline text-start">
+          <div class="f-30">◼ 해결 방법</div>
+          <div class="f-70">-</div>
+        </div>
+        <div class="row-flexible thin-underline text-start">
+          <div class="f-30">◼ 주의사항</div>
+          <div class="f-70">광고주와 추천보증인 사이의 경제적 이해관계를 소비자가 명확하고 쉽게 알 수 있도록 작성해야합니다.</div>
+        </div>
+        <div class="row-flexible text-start">
+          <div class="f-30">◼ 관련이슈</div>
+          <div class="f-70">-</div>
+        </div>
+      </div>
+      
+      <div class="list-d br-t-8 row-flexible box-shadow">
+        <div class="pt-3 f-10"><p>2</p></div>
+        <div class="pt-3 f-30"><p>할인혜택 제공</p></div>
+        <div class="pt-3 f-30"><p>조건부 가능</p></div>
+        <div class="f-30">
+          <button
+            type="button"
+            class="btn btn-outline-primary st-keyword-detail-toggle"
+          >
+            자세히
+          </button>
+        </div>
+      </div>
+      <div class="list-detail br-b-8 hide bg-blue25 box-shadow">
+        <div class="row-flexible thin-underline text-start">
+          <div class="f-30">◼ 키워드</div>
+          <div class="f-70">할인혜택 제공</div>
+        </div>
+        <div class="row-flexible thin-underline text-start">
+          <div class="f-30">◼ 사용 예시</div>
+          <div class="f-70">
+            할인혜택 제공
+            <br />이 글은 상품 또는 서비스에 대하여 할인혜택을 제공받아 작성되었습니다. ‚ 이 콘텐츠는 상품 또는 서비스에 대하여 할인혜택을 제공받아 제작되었습니다. <br /><a
+              href="/sponsoredtag/recommendation"
+              >👉올바른 사용예시 사진 보러가기</a
+            >
+          </div>
+        </div>
+        <div class="row-flexible thin-underline text-start">
+          <div class="f-30">◼ 사용 제한</div>
+          <div class="f-70">상품‚ 서비스 등에 할인 혜택을 제공한 경우 사용할 수 있습니다.</div>
+        </div>
+        <div class="row-flexible thin-underline text-start">
+          <div class="f-30">◼ 제한 사유</div>
+          <div class="f-70">
+            소비자가 광고주와 추천보증인 사이의 경제적 이해관계를 사실 그대로 알 수 있도록 표시하기 위함입니다.
+          </div>
+        </div>
+        <div class="row-flexible thin-underline text-start">
+          <div class="f-30">◼ 해결 방법</div>
+          <div class="f-70">-</div>
+        </div>
+        <div class="row-flexible thin-underline text-start">
+          <div class="f-30">◼ 주의사항</div>
+          <div class="f-70">광고주와 추천보증인 사이의 경제적 이해관계를 소비자가 명확하고 쉽게 알 수 있도록 작성해야합니다.</div>
+        </div>
+        <div class="row-flexible text-start">
+          <div class="f-30">◼ 관련이슈</div>
+          <div class="f-70">-</div>
+        </div>
+      </div>
+      
+      <div class="list-d br-t-8 row-flexible box-shadow">
+        <div class="pt-3 f-10"><p>3</p></div>
+        <div class="pt-3 f-30"><p>할인권 지원</p></div>
+        <div class="pt-3 f-30"><p>조건부 가능</p></div>
+        <div class="f-30">
+          <button
+            type="button"
+            class="btn btn-outline-primary st-keyword-detail-toggle"
+          >
+            자세히
+          </button>
+        </div>
+      </div>
+      <div class="list-detail br-b-8 hide bg-blue25 box-shadow">
+        <div class="row-flexible thin-underline text-start">
+          <div class="f-30">◼ 키워드</div>
+          <div class="f-70">할인권 지원</div>
+        </div>
+        <div class="row-flexible thin-underline text-start">
+          <div class="f-30">◼ 사용 예시</div>
+          <div class="f-70">
+            할인권 지원
+            <br />이 글은 상품 또는 서비스에 대하여 할인권을 지원받아 작성되었습니다. ‚ 이 콘텐츠는 상품 또는 서비스에 대하여 할인권을 지원받아 제작되었습니다. <br /><a
+              href="/sponsoredtag/recommendation"
+              >👉올바른 사용예시 사진 보러가기</a
+            >
+          </div>
+        </div>
+        <div class="row-flexible thin-underline text-start">
+          <div class="f-30">◼ 사용 제한</div>
+          <div class="f-70">상품‚ 서비스 등에 할인 혜택을 제공한 경우 사용할 수 있습니다.</div>
+        </div>
+        <div class="row-flexible thin-underline text-start">
+          <div class="f-30">◼ 제한 사유</div>
+          <div class="f-70">
+            소비자가 광고주와 추천보증인 사이의 경제적 이해관계를 사실 그대로 알 수 있도록 표시하기 위함입니다.
+          </div>
+        </div>
+        <div class="row-flexible thin-underline text-start">
+          <div class="f-30">◼ 해결 방법</div>
+          <div class="f-70">-</div>
+        </div>
+        <div class="row-flexible thin-underline text-start">
+          <div class="f-30">◼ 주의사항</div>
+          <div class="f-70">광고주와 추천보증인 사이의 경제적 이해관계를 소비자가 명확하고 쉽게 알 수 있도록 작성해야합니다.</div>
+        </div>
+        <div class="row-flexible text-start">
+          <div class="f-30">◼ 관련이슈</div>
+          <div class="f-70">-</div>
+        </div>
+      </div>
+       
+    </div>
+  </div>
+</div>]]></description>
+<category>공정위문구</category>
+<auther>PrismXQ 프리즘XQ</auther>
+<guid>https://prismxq.com/sponsoredtag/check?value=%ED%95%A0%EC%9D%B8</guid>
+      <pubDate>Sun, 30 Jul 2024 10:11:00 +0000</pubDate>
+    </item>
+        <item>
+      <title>공정위 문구 적립 표시</title>
+      <link>https://prismxq.com/sponsoredtag/check?value=%EC%A0%81%EB%A6%BD</link>
+      <description><![CDATA[this is   <div class="py-3 px-2 mt-2 mb-5 border">
+    <h4 class="mt-2 px-1">❝ 적립 ❞ 검색결과</h4>
+    <div class="alert alert-warning" role="alert">
+      <div class="p-1">
+        ▪ 더 많은 공정위문구는
+        <a href="/sponsoredtag/dictionary">단어사전</a>에서 확인하세요.
+      </div>
+      <div class="p-1">
+        ▪ 어디에 어떻게 써야할지 모르겠다면? <br />
+        <a href="/sponsoredtag/recommendation">👉상황별 추천문구</a>에서
+        추천해드립니다.
+      </div>
+    </div>
+    <!--result list-->
+    <div class="text-center">
+      <div class="list-h row-flexible pt-3 br-t-8 bg-gray">
+        <div class="f-10">
+          <p><b>no</b></p>
+        </div>
+        <div class="f-30">
+          <p><b>단어</b></p>
+        </div>
+        <div class="f-30">
+          <p><b>사용가부</b></p>
+        </div>
+        <div class="f-30">
+          <p><b>자세히</b></p>
+        </div>
+      </div>
+       
+      <div class="list-d br-t-8 row-flexible box-shadow">
+        <div class="pt-3 f-10"><p>1</p></div>
+        <div class="pt-3 f-30"><p>적립금</p></div>
+        <div class="pt-3 f-30"><p>조건부 가능</p></div>
+        <div class="f-30">
+          <button
+            type="button"
+            class="btn btn-outline-primary st-keyword-detail-toggle"
+          >
+            자세히
+          </button>
+        </div>
+      </div>
+      <div class="list-detail br-b-8 hide bg-blue25 box-shadow">
+        <div class="row-flexible thin-underline text-start">
+          <div class="f-30">◼ 키워드</div>
+          <div class="f-70">적립금</div>
+        </div>
+        <div class="row-flexible thin-underline text-start">
+          <div class="f-30">◼ 사용 예시</div>
+          <div class="f-70">
+            적립금 지급
+            <br />이 글은 상품 또는 서비스에 대하여 적립금을 지급받아 작성되었습니다. ‚ 이 콘텐츠는 상품 또는 서비스에 대하여 적립금을 지급받아 제작되었습니다. <br /><a
+              href="/sponsoredtag/recommendation"
+              >👉올바른 사용예시 사진 보러가기</a
+            >
+          </div>
+        </div>
+        <div class="row-flexible thin-underline text-start">
+          <div class="f-30">◼ 사용 제한</div>
+          <div class="f-70">적립금 등을 지급한 경우 사용할 수 있습니다.</div>
+        </div>
+        <div class="row-flexible thin-underline text-start">
+          <div class="f-30">◼ 제한 사유</div>
+          <div class="f-70">
+            소비자가 광고주와 추천보증인 사이의 경제적 이해관계를 사실 그대로 알 수 있도록 표시하기 위함입니다.
+          </div>
+        </div>
+        <div class="row-flexible thin-underline text-start">
+          <div class="f-30">◼ 해결 방법</div>
+          <div class="f-70">-</div>
+        </div>
+        <div class="row-flexible thin-underline text-start">
+          <div class="f-30">◼ 주의사항</div>
+          <div class="f-70">광고주와 추천보증인 사이의 경제적 이해관계를 소비자가 명확하고 쉽게 알 수 있도록 작성해야합니다.</div>
+        </div>
+        <div class="row-flexible text-start">
+          <div class="f-30">◼ 관련이슈</div>
+          <div class="f-70">-</div>
+        </div>
+      </div>
+      
+      <div class="list-d br-t-8 row-flexible box-shadow">
+        <div class="pt-3 f-10"><p>2</p></div>
+        <div class="pt-3 f-30"><p>적립금 지급</p></div>
+        <div class="pt-3 f-30"><p>조건부 가능</p></div>
+        <div class="f-30">
+          <button
+            type="button"
+            class="btn btn-outline-primary st-keyword-detail-toggle"
+          >
+            자세히
+          </button>
+        </div>
+      </div>
+      <div class="list-detail br-b-8 hide bg-blue25 box-shadow">
+        <div class="row-flexible thin-underline text-start">
+          <div class="f-30">◼ 키워드</div>
+          <div class="f-70">적립금 지급</div>
+        </div>
+        <div class="row-flexible thin-underline text-start">
+          <div class="f-30">◼ 사용 예시</div>
+          <div class="f-70">
+            적립금 지급
+            <br />이 글은 상품 또는 서비스에 대하여 적립금을 지급받아 작성되었습니다. ‚ 이 콘텐츠는 상품 또는 서비스에 대하여 적립금을 지급받아 제작되었습니다. <br /><a
+              href="/sponsoredtag/recommendation"
+              >👉올바른 사용예시 사진 보러가기</a
+            >
+          </div>
+        </div>
+        <div class="row-flexible thin-underline text-start">
+          <div class="f-30">◼ 사용 제한</div>
+          <div class="f-70">적립금 등을 지급한 경우 사용할 수 있습니다.</div>
+        </div>
+        <div class="row-flexible thin-underline text-start">
+          <div class="f-30">◼ 제한 사유</div>
+          <div class="f-70">
+            소비자가 광고주와 추천보증인 사이의 경제적 이해관계를 사실 그대로 알 수 있도록 표시하기 위함입니다.
+          </div>
+        </div>
+        <div class="row-flexible thin-underline text-start">
+          <div class="f-30">◼ 해결 방법</div>
+          <div class="f-70">-</div>
+        </div>
+        <div class="row-flexible thin-underline text-start">
+          <div class="f-30">◼ 주의사항</div>
+          <div class="f-70">광고주와 추천보증인 사이의 경제적 이해관계를 소비자가 명확하고 쉽게 알 수 있도록 작성해야합니다.</div>
+        </div>
+        <div class="row-flexible text-start">
+          <div class="f-30">◼ 관련이슈</div>
+          <div class="f-70">-</div>
+        </div>
+      </div>
+       
+    </div>
+  </div>
+</div>]]></description>
+<category>공정위문구</category>
+<auther>PrismXQ 프리즘XQ</auther>
+<guid>https://prismxq.com/sponsoredtag/check?value=%EC%A0%81%EB%A6%BD</guid>
+      <pubDate>Sun, 30 Jul 2024 10:51:00 +0000</pubDate>
+    </item>
+        <item>
+      <title>공정위문구 체험단 표시</title>
+      <link>https://prismxq.com/sponsoredtag/check?value=%EC%B2%B4%ED%97%98%EB%8B%A8</link>
+      <description><![CDATA[this is   <div class="py-3 px-2 mt-2 mb-5 border">
+    <h4 class="mt-2 px-1">❝ 체험단 ❞ 검색결과</h4>
+    <div class="alert alert-warning" role="alert">
+      <div class="p-1">
+        ▪ 더 많은 공정위문구는
+        <a href="/sponsoredtag/dictionary">단어사전</a>에서 확인하세요.
+      </div>
+      <div class="p-1">
+        ▪ 어디에 어떻게 써야할지 모르겠다면? <br />
+        <a href="/sponsoredtag/recommendation">👉상황별 추천문구</a>에서
+        추천해드립니다.
+      </div>
+    </div>
+    <!--result list-->
+    <div class="text-center">
+      <div class="list-h row-flexible pt-3 br-t-8 bg-gray">
+        <div class="f-10">
+          <p><b>no</b></p>
+        </div>
+        <div class="f-30">
+          <p><b>단어</b></p>
+        </div>
+        <div class="f-30">
+          <p><b>사용가부</b></p>
+        </div>
+        <div class="f-30">
+          <p><b>자세히</b></p>
+        </div>
+      </div>
+       
+      <div class="list-d br-t-8 row-flexible box-shadow">
+        <div class="pt-3 f-10"><p>1</p></div>
+        <div class="pt-3 f-30"><p>체험단</p></div>
+        <div class="pt-3 f-30"><p>사용 불가</p></div>
+        <div class="f-30">
+          <button
+            type="button"
+            class="btn btn-outline-primary st-keyword-detail-toggle"
+          >
+            자세히
+          </button>
+        </div>
+      </div>
+      <div class="list-detail br-b-8 hide bg-blue25 box-shadow">
+        <div class="row-flexible thin-underline text-start">
+          <div class="f-30">◼ 키워드</div>
+          <div class="f-70">체험단</div>
+        </div>
+        <div class="row-flexible thin-underline text-start">
+          <div class="f-30">◼ 사용 예시</div>
+          <div class="f-70">
+            #체험단‚ #체험단활동‚ #[체험단업체명]‚ [체험단]
+            <br /> <br /><a
+              href="/sponsoredtag/recommendation"
+              >👉올바른 사용예시 사진 보러가기</a
+            >
+          </div>
+        </div>
+        <div class="row-flexible thin-underline text-start">
+          <div class="f-30">◼ 사용 제한</div>
+          <div class="f-70">해당 키워드 단독으로는 사용할 수 없습니다.</div>
+        </div>
+        <div class="row-flexible thin-underline text-start">
+          <div class="f-30">◼ 제한 사유</div>
+          <div class="f-70">
+            소비자에게 광고주와 추천보증인 사이의 경제적 이해관계를 명확하게 나타낸 문구로 볼 수 없습니다.
+          </div>
+        </div>
+        <div class="row-flexible thin-underline text-start">
+          <div class="f-30">◼ 해결 방법</div>
+          <div class="f-70">해당 키워드를 삭제하고 올바른 문구로 교체하거나‚ 올바른 문구와 함께 사용합니다.</div>
+        </div>
+        <div class="row-flexible thin-underline text-start">
+          <div class="f-30">◼ 주의사항</div>
+          <div class="f-70">-</div>
+        </div>
+        <div class="row-flexible text-start">
+          <div class="f-30">◼ 관련이슈</div>
+          <div class="f-70">-</div>
+        </div>
+      </div>
+       
+    </div>
+  </div>
+</div>]]></description>
+<category>공정위문구</category>
+<auther>PrismXQ 프리즘XQ</auther>
+<guid>https://prismxq.com/sponsoredtag/check?value=%EC%B2%B4%ED%97%98%EB%8B%A8</guid>
+      <pubDate>Sun, 30 Jul 2024 12:11:00 +0000</pubDate>
+    </item>
+        <item>
+      <title>공정위문구 서포터즈 표시</title>
+      <link>https://prismxq.com/sponsoredtag/check?value=%EC%84%9C%ED%8F%AC%ED%84%B0%EC%A6%88</link>
+      <description><![CDATA[this is   <div class="py-3 px-2 mt-2 mb-5 border">
+    <h4 class="mt-2 px-1">❝ 서포터즈 ❞ 검색결과</h4>
+    <div class="alert alert-warning" role="alert">
+      <div class="p-1">
+        ▪ 더 많은 공정위문구는
+        <a href="/sponsoredtag/dictionary">단어사전</a>에서 확인하세요.
+      </div>
+      <div class="p-1">
+        ▪ 어디에 어떻게 써야할지 모르겠다면? <br />
+        <a href="/sponsoredtag/recommendation">👉상황별 추천문구</a>에서
+        추천해드립니다.
+      </div>
+    </div>
+    <!--result list-->
+    <div class="text-center">
+      <div class="list-h row-flexible pt-3 br-t-8 bg-gray">
+        <div class="f-10">
+          <p><b>no</b></p>
+        </div>
+        <div class="f-30">
+          <p><b>단어</b></p>
+        </div>
+        <div class="f-30">
+          <p><b>사용가부</b></p>
+        </div>
+        <div class="f-30">
+          <p><b>자세히</b></p>
+        </div>
+      </div>
+       
+      <div class="list-d br-t-8 row-flexible box-shadow">
+        <div class="pt-3 f-10"><p>1</p></div>
+        <div class="pt-3 f-30"><p>서포터즈</p></div>
+        <div class="pt-3 f-30"><p>사용 불가</p></div>
+        <div class="f-30">
+          <button
+            type="button"
+            class="btn btn-outline-primary st-keyword-detail-toggle"
+          >
+            자세히
+          </button>
+        </div>
+      </div>
+      <div class="list-detail br-b-8 hide bg-blue25 box-shadow">
+        <div class="row-flexible thin-underline text-start">
+          <div class="f-30">◼ 키워드</div>
+          <div class="f-70">서포터즈</div>
+        </div>
+        <div class="row-flexible thin-underline text-start">
+          <div class="f-30">◼ 사용 예시</div>
+          <div class="f-70">
+            #서포터즈‚ #서포터즈활동‚ [서포터즈]‚ [서포터즈활동]
+            <br /> <br /><a
+              href="/sponsoredtag/recommendation"
+              >👉올바른 사용예시 사진 보러가기</a
+            >
+          </div>
+        </div>
+        <div class="row-flexible thin-underline text-start">
+          <div class="f-30">◼ 사용 제한</div>
+          <div class="f-70">해당 키워드 단독으로는 사용할 수 없습니다.</div>
+        </div>
+        <div class="row-flexible thin-underline text-start">
+          <div class="f-30">◼ 제한 사유</div>
+          <div class="f-70">
+            소비자에게 광고주와 추천보증인 사이의 경제적 이해관계를 명확하게 나타낸 문구로 볼 수 없습니다.
+          </div>
+        </div>
+        <div class="row-flexible thin-underline text-start">
+          <div class="f-30">◼ 해결 방법</div>
+          <div class="f-70">해당 키워드를 삭제하고 올바른 문구로 교체하거나‚ 올바른 문구와 함께 사용합니다.</div>
+        </div>
+        <div class="row-flexible thin-underline text-start">
+          <div class="f-30">◼ 주의사항</div>
+          <div class="f-70">-</div>
+        </div>
+        <div class="row-flexible text-start">
+          <div class="f-30">◼ 관련이슈</div>
+          <div class="f-70">-</div>
+        </div>
+      </div>
+       
+    </div>
+  </div>
+</div>]]></description>
+<category>공정위문구</category>
+<auther>PrismXQ 프리즘XQ</auther>
+<guid>https://prismxq.com/sponsoredtag/check?value=%EC%84%9C%ED%8F%AC%ED%84%B0%EC%A6%88</guid>
+      <pubDate>Sun, 30 Jul 2024 12:30:00 +0000</pubDate>
+    </item>
+        <item>
+      <title>공정위문구 원고료 표시</title>
+      <link>https://prismxq.com/sponsoredtag/check?value=%EC%9B%90%EA%B3%A0%EB%A3%8C</link>
+      <description><![CDATA[this is   <div class="py-3 px-2 mt-2 mb-5 border">
+    <h4 class="mt-2 px-1">❝ 원고료 ❞ 검색결과</h4>
+    <div class="alert alert-warning" role="alert">
+      <div class="p-1">
+        ▪ 더 많은 공정위문구는
+        <a href="/sponsoredtag/dictionary">단어사전</a>에서 확인하세요.
+      </div>
+      <div class="p-1">
+        ▪ 어디에 어떻게 써야할지 모르겠다면? <br />
+        <a href="/sponsoredtag/recommendation">👉상황별 추천문구</a>에서
+        추천해드립니다.
+      </div>
+    </div>
+    <!--result list-->
+    <div class="text-center">
+      <div class="list-h row-flexible pt-3 br-t-8 bg-gray">
+        <div class="f-10">
+          <p><b>no</b></p>
+        </div>
+        <div class="f-30">
+          <p><b>단어</b></p>
+        </div>
+        <div class="f-30">
+          <p><b>사용가부</b></p>
+        </div>
+        <div class="f-30">
+          <p><b>자세히</b></p>
+        </div>
+      </div>
+       
+      <div class="list-d br-t-8 row-flexible box-shadow">
+        <div class="pt-3 f-10"><p>1</p></div>
+        <div class="pt-3 f-30"><p>원고료</p></div>
+        <div class="pt-3 f-30"><p>조건부 가능</p></div>
+        <div class="f-30">
+          <button
+            type="button"
+            class="btn btn-outline-primary st-keyword-detail-toggle"
+          >
+            자세히
+          </button>
+        </div>
+      </div>
+      <div class="list-detail br-b-8 hide bg-blue25 box-shadow">
+        <div class="row-flexible thin-underline text-start">
+          <div class="f-30">◼ 키워드</div>
+          <div class="f-70">원고료</div>
+        </div>
+        <div class="row-flexible thin-underline text-start">
+          <div class="f-30">◼ 사용 예시</div>
+          <div class="f-70">
+            원고료 지급
+            <br />이 글은 소정의 원고료를 지급받아 작성되었습니다. <br /><a
+              href="/sponsoredtag/recommendation"
+              >👉올바른 사용예시 사진 보러가기</a
+            >
+          </div>
+        </div>
+        <div class="row-flexible thin-underline text-start">
+          <div class="f-30">◼ 사용 제한</div>
+          <div class="f-70">원고료를 지급받은 경우 사용할 수 있습니다.</div>
+        </div>
+        <div class="row-flexible thin-underline text-start">
+          <div class="f-30">◼ 제한 사유</div>
+          <div class="f-70">
+            소비자가 다양한 경제적 이해관계를 사실 그대로 알 수 있도록 표시하기 위함입니다.
+          </div>
+        </div>
+        <div class="row-flexible thin-underline text-start">
+          <div class="f-30">◼ 해결 방법</div>
+          <div class="f-70">-</div>
+        </div>
+        <div class="row-flexible thin-underline text-start">
+          <div class="f-30">◼ 주의사항</div>
+          <div class="f-70">금전 형태 지급이 아닌 다른 형태(e.g. 상품협찬‚ 무료대여‚ 할인혜택)로 지원을 받은 경우 사용할 수 없습니다.</div>
+        </div>
+        <div class="row-flexible text-start">
+          <div class="f-30">◼ 관련이슈</div>
+          <div class="f-70">-</div>
+        </div>
+      </div>
+       
+    </div>
+  </div>
+</div>]]></description>
+<category>공정위문구</category>
+<auther>PrismXQ 프리즘XQ</auther>
+<guid>https://prismxq.com/sponsoredtag/check?value=%EC%9B%90%EA%B3%A0%EB%A3%8C</guid>
+      <pubDate>Sun, 30 Jul 2024 12:38:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>공정위문구 AD 표시</title>
+      <link>https://prismxq.com/sponsoredtag/check?value=AD</link>
+      <description><![CDATA[this is   <div class="py-3 px-2 mt-2 mb-5 border">
+    <h4 class="mt-2 px-1">❝ AD ❞ 검색결과</h4>
+    <div class="alert alert-warning" role="alert">
+      <div class="p-1">
+        ▪ 더 많은 공정위문구는
+        <a href="/sponsoredtag/dictionary">단어사전</a>에서 확인하세요.
+      </div>
+      <div class="p-1">
+        ▪ 어디에 어떻게 써야할지 모르겠다면? <br />
+        <a href="/sponsoredtag/recommendation">👉상황별 추천문구</a>에서
+        추천해드립니다.
+      </div>
+    </div>
+    <!--result list-->
+    <div class="text-center">
+      <div class="list-h row-flexible pt-3 br-t-8 bg-gray">
+        <div class="f-10">
+          <p><b>no</b></p>
+        </div>
+        <div class="f-30">
+          <p><b>단어</b></p>
+        </div>
+        <div class="f-30">
+          <p><b>사용가부</b></p>
+        </div>
+        <div class="f-30">
+          <p><b>자세히</b></p>
+        </div>
+      </div>
+       
+      <div class="list-d br-t-8 row-flexible box-shadow">
+        <div class="pt-3 f-10"><p>1</p></div>
+        <div class="pt-3 f-30"><p>AD</p></div>
+        <div class="pt-3 f-30"><p>사용 불가</p></div>
+        <div class="f-30">
+          <button
+            type="button"
+            class="btn btn-outline-primary st-keyword-detail-toggle"
+          >
+            자세히
+          </button>
+        </div>
+      </div>
+      <div class="list-detail br-b-8 hide bg-blue25 box-shadow">
+        <div class="row-flexible thin-underline text-start">
+          <div class="f-30">◼ 키워드</div>
+          <div class="f-70">AD</div>
+        </div>
+        <div class="row-flexible thin-underline text-start">
+          <div class="f-30">◼ 사용 예시</div>
+          <div class="f-70">
+            AD‚ #AD‚ [AD]‚ ★AD★‚ ad
+            <br /> <br /><a
+              href="/sponsoredtag/recommendation"
+              >👉올바른 사용예시 사진 보러가기</a
+            >
+          </div>
+        </div>
+        <div class="row-flexible thin-underline text-start">
+          <div class="f-30">◼ 사용 제한</div>
+          <div class="f-70">해당 키워드 단독으로는 사용할 수 없습니다.</div>
+        </div>
+        <div class="row-flexible thin-underline text-start">
+          <div class="f-30">◼ 제한 사유</div>
+          <div class="f-70">
+            국내 소비자 보호를 위해 외국어 표기는 금지됩니다.
+          </div>
+        </div>
+        <div class="row-flexible thin-underline text-start">
+          <div class="f-30">◼ 해결 방법</div>
+          <div class="f-70">한국어로 경제적 이해관계를 표시하거나 올바른 표현과 함께 사용합니다.</div>
+        </div>
+        <div class="row-flexible thin-underline text-start">
+          <div class="f-30">◼ 주의사항</div>
+          <div class="f-70">-</div>
+        </div>
+        <div class="row-flexible text-start">
+          <div class="f-30">◼ 관련이슈</div>
+          <div class="f-70">-</div>
+        </div>
+      </div>
+      
+      <div class="list-d br-t-8 row-flexible box-shadow">
+        <div class="pt-3 f-10"><p>2</p></div>
+        <div class="pt-3 f-30"><p>유료AD</p></div>
+        <div class="pt-3 f-30"><p>사용 불가</p></div>
+        <div class="f-30">
+          <button
+            type="button"
+            class="btn btn-outline-primary st-keyword-detail-toggle"
+          >
+            자세히
+          </button>
+        </div>
+      </div>
+      <div class="list-detail br-b-8 hide bg-blue25 box-shadow">
+        <div class="row-flexible thin-underline text-start">
+          <div class="f-30">◼ 키워드</div>
+          <div class="f-70">유료AD</div>
+        </div>
+        <div class="row-flexible thin-underline text-start">
+          <div class="f-30">◼ 사용 예시</div>
+          <div class="f-70">
+            #유료AD‚ [유료AD]‚ 유료AD‚ 유료ad
+            <br /> <br /><a
+              href="/sponsoredtag/recommendation"
+              >👉올바른 사용예시 사진 보러가기</a
+            >
+          </div>
+        </div>
+        <div class="row-flexible thin-underline text-start">
+          <div class="f-30">◼ 사용 제한</div>
+          <div class="f-70">해당 키워드 단독으로는 사용할 수 없습니다.</div>
+        </div>
+        <div class="row-flexible thin-underline text-start">
+          <div class="f-30">◼ 제한 사유</div>
+          <div class="f-70">
+            국내 소비자 보호를 위해 외국어 표기는 금지됩니다.
+          </div>
+        </div>
+        <div class="row-flexible thin-underline text-start">
+          <div class="f-30">◼ 해결 방법</div>
+          <div class="f-70">한국어로 경제적 이해관계를 표시하거나 올바른 표현과 함께 사용합니다.</div>
+        </div>
+        <div class="row-flexible thin-underline text-start">
+          <div class="f-30">◼ 주의사항</div>
+          <div class="f-70">-</div>
+        </div>
+        <div class="row-flexible text-start">
+          <div class="f-30">◼ 관련이슈</div>
+          <div class="f-70">-</div>
+        </div>
+      </div>
+       
+    </div>
+  </div>
+</div>]]></description>
+<category>공정위문구</category>
+<auther>PrismXQ 프리즘XQ</auther>
+<guid>https://prismxq.com/sponsoredtag/check?value=AD</guid>
+      <pubDate>Sun, 30 Jul 2024 13:17:00 +0000</pubDate>
+    </item>
+  </channel>
+</rss>
