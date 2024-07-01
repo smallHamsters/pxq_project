@@ -21,6 +21,11 @@ app.use(express.static("public"));
 app.use(
   express.static(path.join(__dirname, "public"), {
     maxAge: "14d",
+    setHeaders: (res, path) => {
+      if (path.endsWith(".csv")) {
+        res.setHeader("Cache-Control", "public, max-age=43200"); //12hours
+      }
+    },
   })
 );
 
